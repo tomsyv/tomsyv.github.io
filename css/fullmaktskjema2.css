@@ -1,0 +1,1047 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 600 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.adresscontact {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.adresscontact .text {
+  float: left;
+  min-height: 25px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.advokat {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.advokat .text {
+  float: left;
+  padding-bottom: 5px;
+  color: rgb(0, 0, 0);
+}
+
+.checkbox {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 14px;
+  margin-top: 16px;
+}
+
+.checkbox-label {
+  display: block;
+  float: left;
+  clear: both;
+  width: 99.8559077809%;
+  margin-left: 0.01774%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.checkbox-label:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+.checkbox-label:active {
+  background-color: rgb(212, 212, 212);
+}
+
+.conntact {
+  float: left;
+  clear: both;
+  width: 100.0931490384%;
+}
+
+.conntact .container {
+  clear: both;
+  width: 100%;
+}
+
+.container .container {
+  float: left;
+}
+
+.formnavigation {
+  float: left;
+  clear: both;
+  width: 99.8345652939%;
+  margin-top: 20px;
+}
+
+.formnavigation .text {
+  min-height: 21px;
+  margin: 20px auto 0;
+  font-size: 1em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.logocontainer {
+  float: right;
+  width: 437px;
+  height: 64px;
+  margin: 8px 16px 0 0;
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  z-index: 48;
+  width: 105px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_menu_hvit(2).svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  background-position: 20% 50%;
+  font: 400 1em/1.38 Georgia;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.navn {
+  float: left;
+  width: 100%;
+}
+
+.pageindicator {
+  width: 320px;
+  height: 44px;
+  margin: 0 auto;
+  background-image: url('../images/step2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+}
+
+.pageindicators {
+  position: relative;
+  width: 66.1106770833%;
+  height: 44px;
+  margin: 100px auto 0;
+}
+
+.point-text {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 14;
+  margin: -17px 0 0 6px;
+  padding-right: 5px;
+  padding-left: 25px;
+  line-height: 1.38;
+}
+
+.relationship {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 17px;
+}
+
+.navn .text,
+.relationship .text,
+.text-8 {
+  float: left;
+  width: 100%;
+  padding-bottom: 5px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 141px;
+  z-index: 45;
+  width: 44px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_search_white.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 22px 22px;
+  background-position: center center;
+  font: 400 1em/1.38 Georgia;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu:hover,
+.search:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.skjema {
+  width: 940px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.text {
+  line-height: 1.38;
+}
+
+.titleh1 {
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.topmenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 47;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(203, 51, 59);
+}
+
+._button {
+  display: block;
+  border-radius: 22px;
+  background-color: rgb(203, 51, 59);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  float: left;
+  height: 44px;
+  padding: 0 10px;
+  border: 1px solid rgb(238, 238, 238);
+  font: 400 1em/1.38 Georgia;
+  color: rgb(128, 128, 128);
+}
+
+._input:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.37) inset;
+}
+
+._input:focus {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.31) inset;
+}
+
+.adresscontact ._input {
+  background-color: rgb(255, 255, 255);
+}
+
+.advokat ._input {
+  clear: both;
+  background-color: rgb(242, 242, 242);
+}
+
+.formnavigation ._button {
+  width: 234px;
+  height: 46px;
+  margin: 0 auto;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 2.38;
+}
+
+.formnavigation ._button:hover {
+  background-color: rgb(235, 83, 90);
+  font-size: 16px;
+}
+
+.navn ._input {
+  clear: both;
+  width: 99.9039385206%;
+  background-color: rgb(255, 255, 255);
+}
+
+.container ._input-5,
+.relationship ._input {
+  clear: both;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+
+.topmenu ._button {
+  float: left;
+  width: 44px;
+  height: 44px;
+  margin: 14px 0 0 204px;
+  border: 1px solid rgba(246, 246, 246, 0.56);
+  font: 400 0.875em/1.38 Georgia;
+}
+
+.container-1 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container-2 {
+  float: left;
+  clear: both;
+  width: 99.9039385206%;
+  margin: 10px 0 0 -0.08878%;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.container-3 {
+  width: 99.8559077809%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+.container-4 {
+  clear: both;
+  width: 99.9039385206%;
+  margin-left: 0.08887%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+.container-5 {
+  clear: both;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.container-6 {
+  float: left;
+  padding: 30px;
+  background-color: rgb(246, 246, 246);
+}
+
+.container-7 {
+  margin-top: 20px;
+}
+
+.image-1 {
+  float: left;
+  width: 188px;
+  margin: 13px 0 0 5.90318%;
+}
+
+.image-2 {
+  float: right;
+  width: 211px;
+}
+
+.text-1 {
+  width: 100%;
+  min-height: 68px;
+  margin: 30px auto 0;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-top: 1px solid rgb(203, 51, 59);
+  border-bottom: 1px solid rgb(203, 51, 59);
+  background-color: rgba(203, 51, 59, 0.18);
+  font-size: 1em;
+  font-weight: 400;
+  color: rgb(203, 51, 59);
+}
+
+.text-10 {
+  width: 100%;
+}
+
+.text-11 {
+  position: relative;
+  clear: both;
+  z-index: 28;
+  width: 37.7809495192%;
+  margin-top: 20px;
+}
+
+.text-12 {
+  position: relative;
+  z-index: 30;
+  width: 59.6604567307%;
+  margin: 20px 0 0 2.4975299999%;
+}
+
+.text-2 {
+  width: 99.9039385206%;
+  min-height: 49px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  font-size: 1.25em;
+  text-align: center;
+}
+
+.text-3 {
+  width: 100%;
+  min-height: 25px;
+  margin-left: -0.06408%;
+  font-size: 1em;
+}
+
+.text-4,
+.text-5 {
+  width: 100%;
+  min-height: 25px;
+  font-size: 1em;
+}
+
+.text-6 {
+  float: left;
+  width: 99.9039385206%;
+  min-height: 49px;
+  margin-top: 25px;
+  padding: 10px 30px 5px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  font-size: 1.25em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.titleh1-1 {
+  float: left;
+  width: 93.6642027455%;
+  margin: 20px 0 0 3.16229%;
+  font-family: 'PT Serif';
+  font-size: 2.125em;
+  font-weight: 700;
+}
+
+.titleh1-2 {
+  width: 100%;
+  margin: 81px auto 0;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.adresscontact ._input-7 {
+  clear: both;
+  width: 100%;
+}
+
+.adresscontact ._input-8 {
+  position: relative;
+  clear: both;
+  z-index: 27;
+  width: 37.7809495192%;
+  margin-left: 0.01523%;
+}
+
+.adresscontact ._input-9 {
+  position: relative;
+  z-index: 29;
+  width: 59.6604567307%;
+  margin-left: 2.4975299999%;
+}
+
+.container ._input-1 {
+  width: 100%;
+}
+
+.container ._input-2 {
+  width: 100%;
+  margin-left: -0.1192%;
+}
+
+.container ._input-3 {
+  width: 99.7263642131%;
+}
+
+.point-text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 300;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(203, 51, 59);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 960px) {
+  ._input:active {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.37) inset;
+  }
+
+  ._input:focus {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.31) inset;
+  }
+
+  .checkbox-label .checkbox {
+    position: relative;
+    z-index: 13;
+    margin-top: 3px;
+  }
+
+  .checkbox-label .point-text {
+    position: relative;
+    z-index: 14;
+  }
+
+  .conntact .checkbox-label {
+    margin-top: 15px;
+    margin-left: 0.01776%;
+  }
+
+  .conntact .formnavigation {
+    width: 99.9253472222%;
+    margin-top: 11px;
+  }
+
+  .conntact .text-6,
+  .formnavigation .text {
+    margin-top: 0;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    top: 8px;
+    left: 10px;
+  }
+
+  .pageindicators {
+    float: left;
+    width: 100%;
+    margin-top: 80px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .skjema {
+    float: left;
+    clear: both;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 40px;
+  }
+
+  .container ._input-3,
+  .skjema .conntact {
+    width: 100%;
+  }
+
+  .topmenu {
+    height: 60px;
+  }
+
+  .topmenu .logocontainer {
+    width: 369px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 6px;
+  }
+
+  .topmenu .search {
+    top: 8px;
+    left: 161px;
+    border-radius: 22px;
+  }
+
+  .adresscontact ._input {
+    margin-top: 9px;
+  }
+
+  .topmenu ._button {
+    margin-top: 8px;
+    margin-left: 220px;
+  }
+
+  .adresscontact .text-11 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .adresscontact .text-12 {
+    position: relative;
+    z-index: 30;
+    margin-left: 2.49256%;
+  }
+
+  .advokat .container-2 {
+    margin-left: -0.08523%;
+  }
+
+  .conntact .container-6 {
+    padding: 20px;
+  }
+
+  .container .container-4 {
+    margin-left: 0.08709%;
+  }
+
+  .container .text-1 {
+    float: left;
+    clear: both;
+    min-height: 0;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .container .text-3 {
+    margin-left: -0.05518%;
+  }
+
+  .container .text-5 {
+    margin-left: -0.10842%;
+  }
+
+  .container .titleh1-1 {
+    width: 93.75%;
+    margin-left: 3.125%;
+  }
+
+  .container .titleh1-2 {
+    float: left;
+    clear: both;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 42;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 43;
+    width: 178px;
+    margin-top: 5px;
+  }
+
+  .adresscontact ._input-8 {
+    position: relative;
+    z-index: 27;
+    margin-left: 0;
+  }
+
+  .adresscontact ._input-9 {
+    position: relative;
+    z-index: 29;
+    margin-left: 2.49256%;
+  }
+
+  .container ._input-2 {
+    margin-left: -0.11564%;
+  }
+}
+
+@media(max-width: 640px) {
+  ._input:active {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.37) inset;
+  }
+
+  ._input:focus {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.31) inset;
+    color: rgb(0, 0, 0);
+  }
+
+  body {
+    font-size: 1em;
+  }
+
+  .checkbox-label .checkbox {
+    position: relative;
+    z-index: 13;
+  }
+
+  .checkbox-label .point-text {
+    position: relative;
+    z-index: 14;
+    width: 98.9370312415%;
+    margin-left: 5px;
+  }
+
+  .conntact .checkbox-label {
+    width: 99.4827586206%;
+    margin-left: 0.33136%;
+  }
+
+  .conntact .formnavigation {
+    width: 99.9245689655%;
+  }
+
+  .formnavigation .text {
+    margin-top: 15px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    left: 14px;
+  }
+
+  .skjema {
+    padding-top: 0;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .topmenu .logocontainer {
+    width: 173px;
+    margin-top: 10px;
+  }
+
+  .topmenu .search {
+    left: 152px;
+    background-size: 30px 21px;
+  }
+
+  .topmenu ._button {
+    margin-left: 210px;
+  }
+
+  .adresscontact .text-11 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .adresscontact .text-12 {
+    position: relative;
+    z-index: 30;
+    margin-left: 2.48264%;
+  }
+
+  .advokat .container-2 {
+    margin-left: -0.08082%;
+  }
+
+  .container .container-4 {
+    margin-left: 0.0809%;
+  }
+
+  .container .text-1 {
+    float: none;
+    clear: none;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .container .text-3 {
+    margin-left: -0.04861%;
+  }
+
+  .container .text-5 {
+    margin-left: -0.11326%;
+  }
+
+  .container .titleh1-1 {
+    width: 90.625%;
+    margin-top: 30px;
+    margin-left: 4.6875%;
+  }
+
+  .container .titleh1-2 {
+    float: none;
+    clear: none;
+    margin-top: 82px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .logocontainer .image-1 {
+    display: none;
+    z-index: 42;
+    margin-top: 15px;
+    margin-left: 31.58418%;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 43;
+    width: 168px;
+    margin-top: 0;
+    margin-right: 2.21279%;
+  }
+
+  .adresscontact ._input-8 {
+    position: relative;
+    z-index: 27;
+    margin-left: 0.00579%;
+  }
+
+  .adresscontact ._input-9 {
+    position: relative;
+    z-index: 29;
+    margin-left: 2.48264%;
+  }
+
+  .container ._input-2 {
+    margin-left: -0.11067%;
+  }
+}
+
+@media(max-width: 400px) {
+  ._input:active {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.37) inset;
+  }
+
+  ._input:focus {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.31) inset;
+  }
+
+  .checkbox-label .checkbox {
+    position: relative;
+    z-index: 13;
+  }
+
+  .checkbox-label .point-text {
+    position: relative;
+    float: right;
+    z-index: 14;
+    margin-left: 0;
+  }
+
+  .conntact .checkbox-label {
+    margin-left: 0.00893%;
+  }
+
+  .conntact .formnavigation {
+    width: 99.921875%;
+    height: 81px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    border-width: 0;
+    border-style: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-position: 40% 50%;
+  }
+
+  .pageindicators {
+    position: relative;
+    z-index: 50;
+    margin-top: 61px;
+  }
+
+  .skjema {
+    position: relative;
+    z-index: 41;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+  }
+
+  .topmenu .logocontainer {
+    width: 161px;
+    height: 47px;
+    margin-top: 6px;
+    margin-right: 7px;
+  }
+
+  .topmenu .search {
+    position: static;
+    float: left;
+    top: auto;
+    left: auto;
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+
+  .topmenu ._button {
+    margin-left: 12px;
+  }
+
+  .adresscontact .text-11 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .adresscontact .text-12 {
+    position: relative;
+    z-index: 30;
+    margin-left: 2.47633%;
+  }
+
+  .advokat .container-2 {
+    margin-left: -0.08036%;
+  }
+
+  .conntact .container-6 {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .container .text-1 {
+    float: left;
+    clear: both;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .container .text-3 {
+    margin-left: -0.05818%;
+  }
+
+  .container .container-4,
+  .container .text-5 {
+    margin-left: 0;
+  }
+
+  .container .titleh1-1 {
+    width: 85%;
+    margin-top: 0;
+    margin-left: 7.5%;
+  }
+
+  .container .titleh1-2 {
+    float: left;
+    clear: both;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 42;
+    margin-top: 13px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 43;
+    width: 150px;
+    margin-top: 6px;
+    margin-right: 2.47477%;
+  }
+
+  .adresscontact ._input-8 {
+    position: relative;
+    z-index: 27;
+    margin-left: 0;
+  }
+
+  .adresscontact ._input-9 {
+    position: relative;
+    z-index: 29;
+    margin-left: 2.47633%;
+  }
+
+  .container ._input-2 {
+    margin-left: -0.09841%;
+  }
+}

@@ -1,0 +1,1846 @@
+body {
+  background-color: rgb(246, 246, 246);
+  font: 400 1em/1.38 Georgia;
+  color: #333333;
+}
+
+.aktuellesaker {
+  float: left;
+  clear: both;
+  width: 99.9412933526%;
+  margin: 18px 0 0 -0.17612%;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.aktuellesaker:hover {
+  background-color: rgba(246, 246, 246, 0);
+}
+
+.aktuellesaker .text {
+  width: 100%;
+  min-height: 49px;
+  padding-top: 20px;
+  font: 1.688em/1.38 'Open Sans';
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.belop {
+  float: left;
+  clear: both;
+  width: 338px;
+  height: 44px;
+}
+
+.belop .text {
+  width: 40px;
+  min-height: 44px;
+  background-color: rgb(238, 238, 238);
+  font: 400 1em/2.58 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.betalingsalternativer {
+  float: left;
+  width: 100%;
+  padding-top: 10px;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  font-weight: 600;
+  color: #333333;
+}
+
+.bilde3 {
+  float: left;
+  width: 100%;
+  height: 163px;
+  background-image: url('../images/asylavtalen.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.bilde3 .news1 {
+  width: 110.0617038216%;
+  height: 320px;
+  margin: -32px 0 0 -4.77237%;
+}
+
+.bliklokere {
+  float: left;
+  width: 100%;
+  margin-left: -0.17612%;
+  padding: 20px;
+  background: none rgb(203, 51, 59);
+  background-size: cover;
+  background-position: left center;
+}
+
+.bliklokere .text {
+  width: 100%;
+  min-height: 37px;
+  font-size: 1em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.blimedlem_gigave .checkbox {
+  margin-top: 7px;
+}
+
+.blimedlem_gigave .checkbox-label {
+  width: 100%;
+  height: 44px;
+}
+
+.blimedlem_gigave .point-text {
+  margin-top: 2px;
+  font-weight: 600;
+}
+
+.breadcrumb {
+  float: left;
+  width: 100%;
+  height: 44px;
+  background-color: rgba(0, 0, 0, 0.29);
+}
+
+.checkbox {
+  display: block;
+  float: left;
+}
+
+.checkbox-label {
+  display: block;
+  float: left;
+  padding-top: 10px;
+}
+
+.container .container {
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin: 17px 0 0 0.0023999999%;
+  border-radius: 15px;
+  background: url('../images/icon_i_hvit.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 20px auto;
+  background-position: center center;
+}
+
+.containerdel1 {
+  float: left;
+  width: 48.4024859943%;
+}
+
+.containerdel2 {
+  float: left;
+  width: 48.4593837535%;
+  margin-left: 3.0191499999%;
+}
+
+.content {
+  float: left;
+  clear: both;
+  width: 90.0325520833%;
+  margin: 30px 0 0 5%;
+}
+
+.date {
+  float: left;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #777777;
+}
+
+.footer {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.footer .footer {
+  margin-top: 43px;
+  padding: 30px;
+  background-color: rgb(66, 66, 66);
+}
+
+.footer .text {
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.78;
+  color: rgb(255, 255, 255);
+}
+
+.form {
+  float: left;
+  width: 100%;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: rgb(255, 255, 255);
+}
+
+.form:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.kroner {
+  float: left;
+  width: 102px;
+  min-height: 44px;
+  background-color: rgb(203, 51, 59);
+  font: 300 1em/2.48 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.logocontainer {
+  float: right;
+  width: 437px;
+  height: 64px;
+  margin: 8px 16px 0 0;
+}
+
+.main {
+  float: left;
+  width: 65.9946489261%;
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  z-index: 79;
+  width: 105px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_menu_hvit(2).svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  background-position: 20% 50%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu_bottom {
+  float: left;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.menu_bottom .container {
+  width: 66.0329861111%;
+  height: 220px;
+}
+
+.news1 {
+  float: left;
+}
+
+.news1 .container {
+  float: left;
+  width: 100%;
+}
+
+.news1 .date {
+  width: 100%;
+}
+
+.news1 .newstitle {
+  width: 100%;
+}
+
+.news3 {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+}
+
+.news1-1:hover,
+.news3:hover {
+  background-color: rgb(246, 246, 246);
+}
+
+.news3 .container {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.news3 .date {
+  width: 100.2835397701%;
+  margin-left: -0.28103%;
+}
+
+.news3 .newstitle {
+  width: 100.2835397701%;
+  margin-left: -0.28103%;
+}
+
+.blimedlem_gigave,
+.newsletter,
+.paymentoptions {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.checkbox-4,
+.checkbox-5,
+.newsletter .checkbox {
+  margin-top: 3px;
+}
+
+.newsletter .checkbox-label {
+  clear: both;
+  width: 32.5581395348%;
+}
+
+.newsletter .point-text,
+.point-text-1,
+.point-text-4,
+.point-text-5 {
+  margin-left: 6px;
+}
+
+.newsletter .text {
+  width: 97.8494623655%;
+  min-height: 19px;
+  font: 600 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.newstitle {
+  float: left;
+  clear: both;
+}
+
+.nyhetsbrev {
+  display: block;
+  float: left;
+  clear: both;
+  width: 220px;
+  height: 44px;
+  margin-top: 19px;
+  border-radius: 25px;
+  background-color: rgb(203, 51, 59);
+  font: 300 1.125em/2.18 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.form ._button:hover,
+.menu:hover,
+.nyhetsbrev:hover,
+.search:hover,
+.topcontainer ._button-4:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.paymentoptions .checkbox-label {
+  clear: both;
+  width: 100%;
+}
+
+.point-text {
+  display: block;
+  float: left;
+  font-family: 'Open Sans';
+  line-height: 1.38;
+}
+
+.right_col {
+  float: left;
+  width: 32.0254537565%;
+  height: 1285px;
+  margin-left: 1.9799%;
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 141px;
+  z-index: 76;
+  width: 44px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_search_white.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 22px 22px;
+  background-position: center center;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.skattefradrag {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 28px;
+  padding: 10px 30px 30px;
+}
+
+.text {
+  float: left;
+}
+
+.text-15 p,
+.text-4 p {
+  margin-bottom: 1em;
+}
+
+.topcontainer {
+  float: left;
+  width: 100%;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.topcontainer .text {
+  clear: both;
+  color: rgb(255, 255, 255);
+}
+
+.topimage_stottoss {
+  float: left;
+  width: 100%;
+  height: 400px;
+  margin-top: 80px;
+  background: url('../images/COLOURBOX3373973.jpg') rgba(0, 0, 0, 0.99);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.topmenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 78;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(203, 51, 59);
+}
+
+.toppart {
+  float: left;
+  width: 100%;
+}
+
+.velgmedlemsskap {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 45px;
+}
+
+._button {
+  display: block;
+  float: left;
+}
+
+._input {
+  display: block;
+  float: left;
+  height: 44px;
+  padding: 0 10px;
+  border: 1px solid rgb(238, 238, 238);
+  background-color: rgb(242, 242, 242);
+  color: rgb(128, 128, 128);
+}
+
+._input:focus {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.31) inset;
+}
+
+._select {
+  display: block;
+  padding-left: 20px;
+  border-width: 1px;
+  border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(179, 179, 179);
+  border-style: solid;
+  background-color: rgb(246, 246, 246);
+  font: 300 1.125em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.belop ._input {
+  width: 182px;
+  margin-left: 0.0785899999%;
+  font-size: 1em;
+  line-height: 2.08;
+}
+
+.belop ._input:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  color: rgb(30, 30, 30);
+}
+
+.belop ._input:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  color: rgb(51, 51, 51);
+}
+
+.belop ._input:focus {
+  color: rgb(30, 30, 30);
+}
+
+.bliklokere ._button {
+  clear: both;
+  width: 100%;
+  height: 46px;
+  margin-top: 20px;
+  border-radius: 23px;
+  background-color: rgb(255, 255, 255);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.bliklokere ._button:hover {
+  background-color: rgb(246, 246, 246);
+}
+
+.breadcrumb ._button {
+  height: 44px;
+  background-color: rgba(32, 32, 32, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.breadcrumb ._button:hover {
+  text-decoration: underline;
+}
+
+.container ._button {
+  background-repeat: no-repeat;
+}
+
+.containerdel1 ._button,
+.containerdel2 ._button {
+  width: 100%;
+  height: 44px;
+  padding-left: 40px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+  border-radius: 3px;
+  background-image: url('../images/bullet.svg');
+  background-size: 8px 56.5px;
+  background-position: 5% 50%;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: left;
+  color: rgb(203, 51, 59);
+}
+
+.footer ._container {
+  float: left;
+}
+
+.footer ._element {
+  position: relative;
+  float: right;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+.form ._button {
+  clear: both;
+  width: 220px;
+  height: 44px;
+  margin-top: 7px;
+  border-radius: 25px;
+  background-color: rgb(203, 51, 59);
+  font: 300 1.125em/2.18 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.menu_bottom ._select {
+  float: right;
+  width: 25.9253472222%;
+  height: 46px;
+  border-radius: 23px;
+  background-image: url('../images/pil_ned_red.svg');
+  background-repeat: no-repeat;
+  background-size: 20px 67.5px;
+  background-position: 95% 50%;
+}
+
+.news1 ._container {
+  clear: both;
+  padding-bottom: 20px;
+}
+
+.news1 ._element {
+  height: 163px;
+  background-image: url('../images/Rasmus-Hansson-MDG-758x400.jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.skattefradrag ._container {
+  float: left;
+  width: 99.7870405819%;
+  height: 47px;
+  margin-top: -1px;
+}
+
+.topmenu ._button {
+  width: 44px;
+  height: 44px;
+  margin: 14px 0 0 204px;
+  border: 1px solid rgba(246, 246, 246, 0.56);
+  border-radius: 22px;
+  background-color: rgb(203, 51, 59);
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.toppart ._input {
+  clear: both;
+  width: 100%;
+  font-size: 0.813em;
+  line-height: 1.38;
+}
+
+.velgmedlemsskap ._select {
+  float: left;
+  width: 71.1477534562%;
+  height: 44px;
+  border-radius: 25px;
+  background-image: none, url('../images/pil_ned_red.svg');
+  background-repeat: repeat, no-repeat;
+  background-size: auto auto, 20px 67.5px;
+  background-position: left top, 95% 50%;
+  background-attachment: scroll, scroll;
+}
+
+.velgmedlemsskap ._select:hover {
+  background-repeat: no-repeat, no-repeat;
+  background-size: 20px 67.5px, 20px 67.5px;
+  background-color: rgb(240, 240, 240);
+}
+
+.velgmedlemsskap ._select:active {
+  background-image: url('../images/pil_opp_red.svg'), none;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 20px auto, 20px 67.5px;
+  background-position: right center, 95% 50%;
+}
+
+.checkbox-3 {
+  position: relative;
+  clear: both;
+  z-index: 32;
+  margin-top: 18px;
+}
+
+.checkbox-label-2 {
+  clear: both;
+  margin-top: 20px;
+}
+
+.checkbox-label-3 {
+  position: relative;
+  z-index: 34;
+  margin-top: -27px;
+}
+
+.container-7 {
+  width: 22.1929824561%;
+  height: 203px;
+  margin-left: 2.63158%;
+}
+
+.container-8 {
+  z-index: 86;
+  width: 280px;
+  height: 130px;
+  margin: -14px 0.33306% 0 0;
+  background-image: url('../images/Skjermbilde%202015-05-11%20kl.%2018.33.25.png');
+  background-size: cover;
+}
+
+.container-9 {
+  clear: both;
+  z-index: 81;
+  width: 17.3333333333%;
+  height: 73px;
+  margin-top: -73px;
+  background-image: url('../images/logo_hvit2@.svg');
+  background-size: contain;
+}
+
+.footer-1 {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+  background-color: rgb(255, 255, 255);
+}
+
+.image-1 {
+  float: left;
+  width: 188px;
+  margin-top: 13px;
+}
+
+.image-2 {
+  float: right;
+  width: 211px;
+}
+
+.news1-1 {
+  clear: both;
+  width: 100%;
+  margin-top: 10px;
+  padding: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+}
+
+.newstitle-1,
+.newstitle-3 {
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.newstitle-1:hover,
+.newstitle-3:hover {
+  color: rgb(203, 51, 59);
+}
+
+.newstitle-2,
+.newstitle-4 {
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.point-text-2 {
+  margin-left: 7px;
+}
+
+.point-text-3 {
+  margin-left: 20px;
+}
+
+.text-1 {
+  width: 58.8333333333%;
+  min-height: 66px;
+  margin: 16px 0 0 5.66667%;
+  padding-top: 20px;
+  font: 700 3.125em/1.28 'PT Serif';
+}
+
+.text-10 {
+  clear: both;
+  width: 100%;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-13 {
+  width: 90.8723455598%;
+  margin-left: -0.16675%;
+}
+
+.text-14 {
+  clear: both;
+  width: 98.0694980694%;
+  margin: 15px 0 0 1.5378%;
+}
+
+.text-15 {
+  width: 21.0833333333%;
+  margin-left: 1.96409%;
+}
+
+.text-2 {
+  position: relative;
+  z-index: 67;
+  width: 51.5%;
+  min-height: 94px;
+  margin: 13px 0 0 5.25%;
+  font: 400 1em/1.38 'Open Sans';
+}
+
+.text-3 {
+  width: 82.5581395348%;
+  min-height: 49px;
+  margin-left: 8.43894%;
+  padding-top: 20px;
+  font: 1.688em/1.38 'Open Sans';
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  clear: both;
+  width: 94.1860465116%;
+  margin: 10px 0 0 2.30175%;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-5 {
+  clear: both;
+  width: 100%;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  font-weight: 600;
+  color: #333333;
+}
+
+.text-6 {
+  clear: both;
+  width: 100.0669408052%;
+  margin-left: -0.0648%;
+  padding-top: 10px;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  font-weight: 600;
+  color: #333333;
+}
+
+.text-9 {
+  width: 93.0382476993%;
+  margin-left: 15px;
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.breadcrumb ._button-2 {
+  width: 104px;
+}
+
+.breadcrumb ._button-3 {
+  width: 129px;
+  background-image: url('../images/arrow_grey.svg');
+  background-repeat: no-repeat;
+  background-size: 12px auto;
+  background-position: left center;
+}
+
+.container ._button-17 {
+  clear: both;
+  width: 79.1505791505%;
+  height: 46px;
+  margin: 22px 0 0 1.5378%;
+  border-radius: 23px;
+  background-image: url('../images/icon_kart_hvit.svg');
+  background-size: 20px 20px;
+  background-position: 10% 50%;
+  background-color: rgb(96, 96, 96);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-17:hover {
+  background-color: rgb(126, 125, 125);
+}
+
+.containerdel1 ._button-10,
+.containerdel1 ._button-11,
+.containerdel1 ._button-8,
+.containerdel1 ._button-9,
+.containerdel2 ._button-13,
+.containerdel2 ._button-14,
+.containerdel2 ._button-15,
+.containerdel2 ._button-16 {
+  clear: both;
+}
+
+.topcontainer ._button-4 {
+  visibility: hidden;
+  position: relative;
+  clear: both;
+  z-index: 66;
+  width: 200px;
+  height: 46px;
+  margin: -29px 0 0 20.66797%;
+  border-radius: 25px;
+  background-color: rgb(203, 51, 59);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.toppart ._input-2:focus {
+  background-color: rgb(238, 238, 238);
+  color: rgb(51, 51, 51);
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 300;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-11 a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.text-11 a:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.text-2 a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.text-4 a {
+  text-decoration: underline;
+  color: rgb(203, 51, 59);
+}
+
+@media(max-width: 960px) {
+  .containerdel1 ._button:hover {
+    font-style: normal;
+    text-decoration: underline;
+  }
+
+  .aktuellesaker .news3 {
+    position: relative;
+    clear: none;
+    z-index: 13;
+    width: 50%;
+    margin-top: 10px;
+  }
+
+  .belop .kroner {
+    padding: 5px;
+    line-height: 2.08;
+  }
+
+  .belop .text {
+    width: 19.5804195804%;
+    padding: 5px;
+    line-height: 2.08;
+  }
+
+  .bilde3 .news1 {
+    margin-left: -4.75337%;
+  }
+
+  .bliklokere .text {
+    width: 98.0210781712%;
+    margin-left: -0.0331%;
+  }
+
+  .container .container {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .container .containerdel1 {
+    width: 50%;
+    margin-left: -0.08868%;
+  }
+
+  .container .containerdel2 {
+    width: 46.9387755102%;
+    margin-top: 5px;
+    margin-left: 2.93878%;
+  }
+
+  .content .main {
+    width: 100%;
+  }
+
+  .content .right_col {
+    clear: both;
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+  }
+
+  .blimedlem_gigave .checkbox-label-2,
+  .footer .footer,
+  .main .skattefradrag {
+    margin-top: 0;
+  }
+
+  .footer .menu_bottom {
+    width: 100%;
+    margin-left: 0;
+    padding: 30px;
+  }
+
+  .form .blimedlem_gigave {
+    margin-top: 36px;
+  }
+
+  .form .newsletter {
+    margin-top: 30px;
+  }
+
+  .form .nyhetsbrev {
+    width: 211px;
+    margin-top: 20px;
+  }
+
+  .form .paymentoptions {
+    margin-top: 18px;
+  }
+
+  .form .toppart {
+    margin-top: 25px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    top: 8px;
+    left: 10px;
+    width: 124px;
+  }
+
+  .menu_bottom .container {
+    width: 97.8888888888%;
+    height: 225px;
+    margin-top: 40px;
+    margin-left: 0.10938%;
+  }
+
+  .news3 .date,
+  .news3 .newstitle {
+    margin-left: -0.28289%;
+  }
+
+  .right_col .aktuellesaker {
+    width: 100%;
+    margin-top: 41px;
+    margin-left: 0;
+  }
+
+  .right_col .bliklokere {
+    width: 99.7911977655%;
+    margin-left: -0.07774%;
+    padding: 30px;
+  }
+
+  .topimage_stottoss {
+    margin-top: 60px;
+  }
+
+  .topmenu {
+    height: 60px;
+  }
+
+  .topmenu .logocontainer {
+    width: 369px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 6px;
+  }
+
+  .topmenu .search {
+    top: 8px;
+    left: 161px;
+    border-radius: 22px;
+  }
+
+  .belop ._input {
+    width: 49.6503496503%;
+    margin-left: 0;
+    padding: 5px 0;
+  }
+
+  .bliklokere ._button {
+    float: none;
+    clear: none;
+    width: 53.3778148457%;
+    margin-top: 85px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .containerdel2 ._button:hover {
+    text-decoration: underline;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .form ._button {
+    margin-top: 20px;
+  }
+
+  .menu_bottom ._select {
+    float: left;
+    clear: both;
+    width: 230px;
+    margin-top: -278px;
+    margin-left: 2%;
+  }
+
+  .skattefradrag ._container {
+    width: 95.8334608908%;
+    height: auto;
+    margin-top: 0;
+  }
+
+  .topmenu ._button {
+    margin-top: 8px;
+    margin-left: 220px;
+  }
+
+  .velgmedlemsskap ._select {
+    width: 71.1478538599%;
+  }
+
+  .aktuellesaker .news1-1 {
+    position: relative;
+    z-index: 6;
+    width: 50%;
+  }
+
+  .blimedlem_gigave .checkbox-label-1 {
+    margin-top: 20px;
+  }
+
+  .container .text-13 {
+    width: 93.4640522875%;
+    margin-left: 0;
+  }
+
+  .container .text-14 {
+    width: 92.8104575163%;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .container .text-9 {
+    width: 81.7786864298%;
+    margin-left: 13px;
+  }
+
+  .footer .container-7 {
+    position: relative;
+    z-index: 85;
+    width: 31.1111111111%;
+    height: auto;
+    margin-left: 1.55556%;
+  }
+
+  .footer .container-8 {
+    z-index: 86;
+    margin-top: -215px;
+    margin-right: 1.60764%;
+  }
+
+  .footer .container-9 {
+    z-index: 81;
+    width: 20.5208333333%;
+    height: 87px;
+    margin-top: -232px;
+    margin-right: 2%;
+  }
+
+  .footer .text-15 {
+    position: relative;
+    clear: both;
+    z-index: 80;
+    width: 34.2222222222%;
+    margin-top: 20px;
+    margin-left: 1.55556%;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 73;
+    margin-top: 10px;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 74;
+    width: 178px;
+    margin-top: 5px;
+  }
+
+  .paymentoptions .checkbox-3 {
+    position: relative;
+    z-index: 32;
+  }
+
+  .paymentoptions .checkbox-label-3 {
+    position: relative;
+    z-index: 34;
+  }
+
+  .topcontainer .text-1 {
+    margin-left: 5.66569%;
+    font-size: 2.75em;
+  }
+
+  .topcontainer .text-2 {
+    position: relative;
+    z-index: 67;
+    margin-left: 5.2474%;
+  }
+
+  .toppart .text-3,
+  .toppart .text-4 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .toppart .text-5 {
+    margin-left: -0.05648%;
+  }
+
+  .toppart .text-6 {
+    margin-left: -0.06621%;
+  }
+
+  .container ._button-17 {
+    width: 85.6209150326%;
+    margin-left: 0;
+  }
+
+  .containerdel2 ._button-12 {
+    font-style: normal;
+  }
+
+  .topcontainer ._button-4 {
+    position: relative;
+    z-index: 66;
+    margin-left: 20.66732%;
+  }
+}
+
+@media(max-width: 640px) {
+  body {
+    font-size: 1em;
+  }
+
+  .aktuellesaker .news3 {
+    position: relative;
+    clear: both;
+    z-index: 13;
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .bilde3 .news1 {
+    margin-left: -4.75275%;
+  }
+
+  .bliklokere .text {
+    float: none;
+    width: 74.375%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .blimedlem_gigave .belop {
+    margin-top: 10px;
+  }
+
+  .container .container {
+    margin-top: 16px;
+  }
+
+  .container .containerdel1 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .container .containerdel2 {
+    clear: both;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .content .main {
+    margin-top: -32px;
+  }
+
+  .footer .footer {
+    padding-bottom: 40px;
+  }
+
+  .container ._button-17,
+  .form .blimedlem_gigave {
+    margin-top: 20px;
+  }
+
+  .form .newsletter {
+    margin-top: 27px;
+  }
+
+  .form .paymentoptions {
+    margin-top: 14px;
+  }
+
+  .form .toppart {
+    margin-top: 0;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    left: 2.216796875%;
+  }
+
+  .menu_bottom .container {
+    width: 86.5517241379%;
+    height: 440px;
+    margin-top: 44px;
+    margin-left: 6.72414%;
+  }
+
+  .news1 ._element,
+  .news3 .bilde3 {
+    height: 200px;
+  }
+
+  .news3 .date,
+  .news3 .newstitle {
+    margin-left: -0.28266%;
+  }
+
+  .newsletter .checkbox-label {
+    width: 100.1549728037%;
+    margin-left: -0.15497%;
+  }
+
+  .newsletter .point-text {
+    margin-left: 14px;
+  }
+
+  .right_col .aktuellesaker {
+    margin-top: 53px;
+  }
+
+  .right_col .bliklokere {
+    margin-left: 0;
+  }
+
+  .topcontainer .text {
+    margin-left: 5.625%;
+  }
+
+  .topmenu .logocontainer {
+    width: 173px;
+    margin-top: 10px;
+  }
+
+  .topmenu .search {
+    left: 152px;
+    background-size: 30px 21px;
+  }
+
+  .bliklokere ._button {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .menu_bottom ._select {
+    width: 252px;
+    margin-top: -514px;
+    margin-left: 8.78233%;
+  }
+
+  .skattefradrag ._container {
+    width: 95.8016769077%;
+  }
+
+  .topmenu ._button {
+    margin-left: 210px;
+  }
+
+  .velgmedlemsskap ._select {
+    width: 71.1477103527%;
+  }
+
+  .aktuellesaker .news1-1 {
+    position: relative;
+    z-index: 6;
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .blimedlem_gigave .checkbox-label-1 {
+    margin-top: 45px;
+  }
+
+  .container .text-13 {
+    width: 100%;
+  }
+
+  .container .text-14 {
+    margin-left: -0.15405%;
+  }
+
+  .container .text-9 {
+    width: 71.9873617693%;
+    margin-left: 18px;
+  }
+
+  .footer .container-7 {
+    position: relative;
+    z-index: 85;
+    width: 48.9655172413%;
+    margin-top: 157px;
+    margin-left: 0.34483%;
+  }
+
+  .footer .container-8 {
+    float: left;
+    clear: both;
+    z-index: 86;
+    margin-top: -372px;
+    margin-right: 0;
+    margin-left: 0.34483%;
+  }
+
+  .footer .container-9 {
+    clear: none;
+    z-index: 81;
+    width: 32.7586206896%;
+    height: 68px;
+    margin-top: 40px;
+    margin-right: 0.3583%;
+  }
+
+  .footer .text-15 {
+    position: relative;
+    clear: none;
+    z-index: 80;
+    width: 48.7931034482%;
+    margin-top: 157px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-1 {
+    display: none;
+    z-index: 73;
+    margin-top: 15px;
+    margin-left: 31.58418%;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 74;
+    width: 168px;
+    margin-top: 0;
+    margin-right: 2.21279%;
+  }
+
+  .paymentoptions .checkbox-3 {
+    position: relative;
+    z-index: 32;
+  }
+
+  .paymentoptions .checkbox-label-3 {
+    position: relative;
+    z-index: 34;
+  }
+
+  .topcontainer .text-1 {
+    width: 73.90625%;
+  }
+
+  .topcontainer .text-2 {
+    position: relative;
+    z-index: 67;
+    width: 73.59375%;
+    margin-top: 16px;
+  }
+
+  .toppart .text-3 {
+    margin-left: 8.4293099999%;
+  }
+
+  .toppart .text-4 {
+    margin-left: 2.29117%;
+  }
+
+  .toppart .text-5 {
+    margin-left: -0.0547%;
+  }
+
+  .toppart .text-6 {
+    margin-left: -0.0668500001%;
+  }
+
+  .topcontainer ._button-4 {
+    position: relative;
+    z-index: 66;
+    margin-top: 40px;
+    margin-left: 20.65918%;
+  }
+}
+
+@media(max-width: 400px) {
+  .aktuellesaker .news3 {
+    position: relative;
+    z-index: 13;
+    margin-top: 8px;
+  }
+
+  .belop .kroner {
+    width: 70px;
+  }
+
+  .belop .text {
+    width: 54px;
+    margin-left: 2.8171%;
+  }
+
+  .bilde3 .news1 {
+    margin-left: -4.69184%;
+  }
+
+  .bliklokere .text,
+  .blimedlem_gigave .belop,
+  .form ._button,
+  .right_col .bliklokere,
+  .velgmedlemsskap ._select {
+    width: 100%;
+  }
+
+  .content {
+    position: relative;
+    z-index: 64;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .blimedlem_gigave .checkbox-label-1,
+  .content .main {
+    margin-top: 0;
+  }
+
+  .footer .footer {
+    margin-top: 40px;
+    padding-right: 0;
+    padding-left: 20px;
+  }
+
+  .footer .menu_bottom {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .form .nyhetsbrev {
+    width: 100%;
+    margin-top: 36px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .main .form {
+    border-width: 0;
+    border-style: none;
+  }
+
+  .menu {
+    position: fixed;
+    top: auto;
+    bottom: 2px;
+    left: 0;
+    width: 100%;
+    padding-left: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-position: 40% 50%;
+  }
+
+  .menu_bottom .container {
+    margin-top: 53px;
+  }
+
+  .news3 .date,
+  .news3 .newstitle {
+    margin-left: -0.28212%;
+  }
+
+  .newsletter .checkbox-label {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .newsletter .point-text {
+    margin-top: 3px;
+    margin-left: 16px;
+  }
+
+  .right_col .aktuellesaker {
+    margin-top: 20px;
+  }
+
+  .topimage_stottoss {
+    position: relative;
+    z-index: 72;
+    height: auto;
+    padding-bottom: 3px;
+    background-position: left center;
+  }
+
+  .topimage_stottoss .topcontainer {
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  .topmenu .logocontainer {
+    width: 161px;
+    height: 47px;
+    margin-top: 6px;
+    margin-right: 7px;
+  }
+
+  .topmenu .search {
+    position: static;
+    float: left;
+    top: auto;
+    left: auto;
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+
+  .belop ._input {
+    width: 57.358490566%;
+  }
+
+  .bliklokere ._button {
+    float: left;
+    clear: both;
+    margin-top: 30px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .footer ._container {
+    margin-left: 0;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .menu_bottom ._select {
+    float: right;
+    width: 100%;
+    margin-top: -498px;
+    margin-left: 0;
+  }
+
+  .skattefradrag ._container {
+    width: 97.8915035401%;
+  }
+
+  .topmenu ._button {
+    margin-left: 12px;
+  }
+
+  .aktuellesaker .news1-1 {
+    position: relative;
+    z-index: 6;
+  }
+
+  .container .text-14 {
+    width: 99.1689750692%;
+    margin-left: 0.2597%;
+  }
+
+  .container .text-9 {
+    width: 78.9661224272%;
+    margin-left: 10px;
+  }
+
+  .footer .container-7 {
+    position: relative;
+    z-index: 85;
+    width: 95%;
+    margin-top: 176px;
+  }
+
+  .footer .container-8 {
+    z-index: 86;
+    margin-top: -587px;
+    margin-left: 0;
+  }
+
+  .footer .container-9 {
+    z-index: 81;
+    width: 160px;
+    height: 69px;
+    margin-top: 23px;
+    margin-right: 5%;
+  }
+
+  .footer .text-15 {
+    position: relative;
+    clear: both;
+    z-index: 80;
+    width: 95%;
+    margin-top: 19px;
+  }
+
+  .footer-1 {
+    position: relative;
+    z-index: 103;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 73;
+    margin-top: 13px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 74;
+    width: 150px;
+    margin-top: 6px;
+    margin-right: 2.47477%;
+  }
+
+  .paymentoptions .checkbox-3 {
+    position: relative;
+    z-index: 32;
+  }
+
+  .paymentoptions .checkbox-label-3 {
+    position: relative;
+    z-index: 34;
+  }
+
+  .topcontainer .text-1 {
+    width: 80%;
+    margin-left: 5.66016%;
+    font-size: 2.5em;
+  }
+
+  .topcontainer .text-2 {
+    position: relative;
+    z-index: 67;
+    width: 90%;
+    margin-top: 13px;
+    margin-left: 5.25%;
+  }
+
+  .toppart .text-3,
+  .toppart .text-4,
+  .toppart .text-5 {
+    margin-left: 0;
+  }
+
+  .toppart .text-6 {
+    margin-left: -0.06434%;
+  }
+
+  .container ._button-17 {
+    width: 99.4459833795%;
+    margin-top: 23px;
+    margin-left: 0.2597%;
+  }
+
+  .topcontainer ._button-4 {
+    position: relative;
+    z-index: 66;
+    margin-top: -29px;
+    margin-left: 20.66797%;
+  }
+}

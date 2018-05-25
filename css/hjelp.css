@@ -1,0 +1,1417 @@
+body {
+  background-color: rgb(246, 246, 246);
+  font: 400 1em/1.58 Georgia;
+  color: #333333;
+}
+
+.breadcrumb {
+  float: left;
+  width: 100%;
+  height: 44px;
+  background-color: rgba(0, 0, 0, 0.29);
+}
+
+.container .container {
+  width: 100%;
+}
+
+.containerdel1 {
+  float: left;
+  width: 48.4024859943%;
+}
+
+.containerdel2 {
+  float: left;
+  width: 48.4593837535%;
+  margin-left: 3.0191499999%;
+}
+
+.content {
+  float: left;
+  clear: both;
+  width: 90%;
+  margin: 30px 0 0 5%;
+}
+
+.footer {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.footer .footer {
+  margin-top: 43px;
+  padding: 30px;
+  background-color: rgb(66, 66, 66);
+}
+
+.footer .text {
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.78;
+  color: rgb(255, 255, 255);
+}
+
+.fullmakt {
+  display: block;
+  float: left;
+  clear: both;
+  width: 56.3338301043%;
+  height: 44px;
+  margin-top: 20px;
+  padding-left: 20px;
+  border-radius: 25px;
+  background: url('../images/icon_fullmaktskjema_hvit.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 25px 145.5px;
+  background-position: 5% 50%;
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.fullmakt:hover,
+.kontakt ._button:hover,
+.menu:hover,
+.search:hover,
+.topmenu ._button:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.fullmaktboks {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 1px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.fullmaktboks .text {
+  width: 100%;
+}
+
+.hjelpe-med {
+  float: left;
+  width: 100%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.hjelpe-med .text {
+  width: 100%;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.kontakt {
+  float: left;
+  width: 32.037037037%;
+  margin-left: 1.943%;
+  padding: 20px;
+  border: 1px solid rgb(238, 238, 238);
+  background-color: rgb(255, 255, 255);
+}
+
+.fullmaktboks:hover,
+.hjelpe-med:hover,
+.kontakt:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+.logocontainer {
+  float: right;
+  width: 437px;
+  height: 64px;
+  margin: 8px 16px 0 0;
+}
+
+.main {
+  float: left;
+  width: 66.0185185185%;
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  z-index: 39;
+  width: 105px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_menu_hvit(2).svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  background-position: 20% 50%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu_bottom {
+  float: left;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.menu_bottom .container {
+  width: 66.0329861111%;
+  height: 220px;
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 141px;
+  z-index: 36;
+  width: 44px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_search_white.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 22px 22px;
+  background-position: center center;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.text {
+  float: left;
+}
+
+.text-15 p,
+.text-19 p {
+  margin-bottom: 1em;
+}
+
+.topmenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 38;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(203, 51, 59);
+}
+
+._button {
+  display: block;
+}
+
+._container {
+  float: left;
+}
+
+._element {
+  position: relative;
+  float: right;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 35px;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+._select {
+  display: block;
+  float: right;
+  width: 25.9253472222%;
+  height: 46px;
+  padding-left: 20px;
+  border-width: 1px;
+  border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(179, 179, 179);
+  border-style: solid;
+  border-radius: 23px;
+  background: url('../images/pil_ned_red.svg') rgb(246, 246, 246);
+  background-repeat: no-repeat;
+  background-size: 20px 67.5px;
+  background-position: 95% 50%;
+  font: 300 1.125em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+._textarea {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 164px;
+  margin: 7px 0 0 0.0051399999%;
+  padding: 5px;
+  background-color: rgb(242, 242, 242);
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+  resize: none;
+}
+
+.breadcrumb ._button {
+  float: left;
+  height: 44px;
+  background-color: rgba(32, 32, 32, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+}
+
+.breadcrumb ._button:hover {
+  text-decoration: underline;
+}
+
+.containerdel1 ._button,
+.containerdel2 ._button {
+  width: 100%;
+  height: 44px;
+  padding-left: 40px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+  border-radius: 3px;
+  background-image: url('../images/bullet.svg');
+  background-size: 8px 56.5px;
+  background-position: 5% 50%;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: left;
+  color: rgb(203, 51, 59);
+}
+
+.footer ._button {
+  float: left;
+  background-repeat: no-repeat;
+}
+
+.fullmaktboks ._button {
+  float: left;
+  clear: both;
+  width: 48.3803863298%;
+  height: 46px;
+  margin-top: 20px;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 23px;
+  background-color: rgb(255, 255, 255);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.kontakt ._button {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 11;
+  width: 100px;
+  height: 38px;
+  margin: 11px 66.9921899999% 0 0;
+  border-radius: 25px;
+  background-color: rgb(203, 51, 59);
+  font: 300 1.125em/2.18 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.topmenu ._button {
+  float: left;
+  width: 44px;
+  height: 44px;
+  margin: 14px 0 0 204px;
+  border: 1px solid rgba(246, 246, 246, 0.56);
+  border-radius: 22px;
+  background-color: rgb(203, 51, 59);
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.container-1 {
+  width: 100%;
+  margin-top: 80px;
+  background-color: rgba(246, 246, 246, 0);
+}
+
+.container-2 {
+  background: url('../images/hjelp(2).jpg'), url('../images/_cached_0x0__458dfa44-f1fd-48e6-8142-ee251af591a9.jpg') rgba(0, 0, 0, 0.99);
+  background-repeat: repeat-x, no-repeat;
+  background-size: cover, cover;
+  background-position: center center, left bottom;
+  background-attachment: scroll, scroll;
+}
+
+.container-3 {
+  height: 429px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-5 {
+  width: 22.1929824561%;
+  height: 203px;
+  margin-left: 2.63158%;
+}
+
+.container-6 {
+  z-index: 46;
+  width: 280px;
+  height: 130px;
+  margin: -14px 0.33306% 0 0;
+  background-image: url('../images/Skjermbilde%202015-05-11%20kl.%2018.33.25.png');
+  background-size: cover;
+}
+
+.container-7 {
+  clear: both;
+  z-index: 41;
+  width: 17.3333333333%;
+  height: 73px;
+  margin-top: -73px;
+  background-image: url('../images/logo_hvit2@.svg');
+  background-size: contain;
+}
+
+.footer-1 {
+  margin-top: 41px;
+  padding-top: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+  background-color: rgb(255, 255, 255);
+}
+
+.image-1 {
+  float: left;
+  width: 188px;
+  margin: 13px 0 0 5.8996%;
+}
+
+.image-2 {
+  float: right;
+  width: 211px;
+}
+
+.text-1 {
+  position: relative;
+  clear: both;
+  z-index: 0;
+  width: 67.4166666666%;
+  min-height: 66px;
+  margin: 51px 0 0 4.64323%;
+  padding-top: 20px;
+  font: 700 3.125em/0.98 'PT Serif';
+  color: rgb(255, 255, 255);
+}
+
+.text-10 {
+  clear: both;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-11 {
+  width: 100%;
+  min-height: 49px;
+  padding-top: 20px;
+  font: 1.688em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  clear: both;
+  width: 91.1184210526%;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-13 {
+  clear: both;
+  width: 45.5600792253%;
+  min-height: 23px;
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.text-14 {
+  clear: both;
+  width: 45.5600247524%;
+  min-height: 23px;
+  margin-top: 20px;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.text-15 {
+  position: relative;
+  clear: both;
+  z-index: 10;
+  margin: -38px 0 0 39.52508%;
+  padding-top: 10px;
+  font-size: 0.813em;
+  line-height: 0.38;
+  color: #333333;
+}
+
+.text-16 {
+  clear: both;
+  width: 101.0563380281%;
+  margin-top: 17px;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-17 {
+  width: 90.8723455598%;
+  margin-left: -0.16675%;
+}
+
+.text-18 {
+  clear: both;
+  width: 98.0694980694%;
+  margin: 15px 0 0 1.5378%;
+}
+
+.text-19 {
+  width: 21.0833333333%;
+  margin-left: 1.96409%;
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  width: 45.7915057915%;
+  min-height: 37px;
+  margin: 17px 0 0 4.64323%;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  color: #ffffff;
+}
+
+.text-4 {
+  clear: both;
+  min-height: 37px;
+  margin-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Open Sans';
+  font-size: 1.125em;
+  color: #333333;
+}
+
+.text-5,
+.text-6,
+.text-7 {
+  clear: both;
+  margin-top: 10px;
+  padding-left: 30px;
+  background-image: url('../images/bullet.svg');
+  background-repeat: no-repeat;
+  background-size: 10px auto;
+  background-position: 0% 20%;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-3,
+.text-8 {
+  min-height: 49px;
+  padding-top: 20px;
+  font: 1.688em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  clear: both;
+  margin-top: 7px;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.breadcrumb ._button-2 {
+  width: 104px;
+  color: rgb(246, 246, 246);
+}
+
+.breadcrumb ._button-3 {
+  width: 160px;
+  background-image: url('../images/arrow_grey.svg');
+  background-repeat: no-repeat;
+  background-size: 12px auto;
+  background-position: left center;
+  color: rgb(238, 238, 238);
+}
+
+.container ._button-17 {
+  clear: both;
+  width: 79.1505791505%;
+  height: 46px;
+  margin: 22px 0 0 1.5378%;
+  border-radius: 23px;
+  background-image: url('../images/icon_kart_hvit.svg');
+  background-size: 20px 20px;
+  background-position: 10% 50%;
+  background-color: rgb(96, 96, 96);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-17:hover {
+  background-color: rgb(126, 125, 125);
+}
+
+.container ._button-4 {
+  visibility: hidden;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 14.1771235521%;
+  height: 46px;
+  margin: -75px 0 0 5.60417%;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 25px;
+  background-color: rgb(255, 255, 255);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.container ._button-4:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+.containerdel1 ._button-10,
+.containerdel1 ._button-11,
+.containerdel1 ._button-8,
+.containerdel1 ._button-9,
+.containerdel2 ._button-13,
+.containerdel2 ._button-14,
+.containerdel2 ._button-15,
+.containerdel2 ._button-16 {
+  clear: both;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 300;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 960px) {
+  .containerdel1 ._button:hover {
+    font-style: normal;
+    text-decoration: underline;
+  }
+
+  .fullmaktboks:hover,
+  .hjelpe-med:hover {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .container .containerdel1 {
+    width: 50%;
+    margin-left: -0.08868%;
+  }
+
+  .container .containerdel2 {
+    width: 46.9387755102%;
+    margin-top: 5px;
+    margin-left: 2.93878%;
+  }
+
+  .container .content {
+    height: 1410px;
+  }
+
+  .content .kontakt {
+    clear: both;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .content .main {
+    width: 100%;
+  }
+
+  .footer {
+    margin-top: 30px;
+  }
+
+  .footer .footer,
+  .hjelpe-med .text-4 {
+    margin-top: 0;
+  }
+
+  .footer .menu_bottom {
+    width: 100%;
+    margin-left: 0;
+    padding: 30px;
+  }
+
+  .fullmaktboks .fullmakt {
+    width: 484px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .main .fullmaktboks {
+    width: 99.8763489208%;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .main .hjelpe-med {
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+
+  .menu {
+    top: 8px;
+    width: 124px;
+  }
+
+  .menu_bottom .container {
+    width: 97.8888888888%;
+    height: 225px;
+    margin-top: 40px;
+    margin-left: 0.10938%;
+  }
+
+  .topmenu {
+    height: 60px;
+  }
+
+  .topmenu .logocontainer {
+    width: 369px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 6px;
+  }
+
+  .topmenu .search {
+    top: 8px;
+    left: 161px;
+    border-radius: 22px;
+  }
+
+  .containerdel2 ._button:hover {
+    text-decoration: underline;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .kontakt ._button {
+    position: relative;
+    float: left;
+    z-index: 11;
+    margin-top: 17px;
+    margin-right: 0;
+  }
+
+  .kontakt ._input {
+    height: 44px;
+  }
+
+  .kontakt ._textarea {
+    margin-top: 2px;
+    margin-left: 0;
+  }
+
+  .menu_bottom ._select {
+    float: left;
+    clear: both;
+    width: 230px;
+    margin-top: -278px;
+    margin-left: 2%;
+  }
+
+  .topmenu ._button {
+    margin-top: 8px;
+    margin-left: 220px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 0;
+    width: 67.2916666666%;
+    margin-top: 53px;
+    margin-left: 5.60059%;
+    font-size: 2.75em;
+  }
+
+  .container .text-17 {
+    width: 93.4640522875%;
+    margin-left: 0;
+  }
+
+  .container .text-18 {
+    width: 92.8104575163%;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 2;
+    margin-top: 9px;
+    margin-left: 5.80404%;
+  }
+
+  .container-1 {
+    margin-top: 60px;
+  }
+
+  .footer .container-5 {
+    position: relative;
+    z-index: 45;
+    width: 31.1111111111%;
+    height: auto;
+    margin-left: 1.55556%;
+  }
+
+  .footer .container-6 {
+    z-index: 46;
+    margin-top: -215px;
+    margin-right: 1.60764%;
+  }
+
+  .footer .container-7 {
+    z-index: 41;
+    width: 20.5208333333%;
+    height: 87px;
+    margin-top: -232px;
+    margin-right: 2%;
+  }
+
+  .footer .text-19 {
+    position: relative;
+    clear: both;
+    z-index: 40;
+    width: 34.2222222222%;
+    margin-top: 20px;
+    margin-left: 1.55556%;
+  }
+
+  .fullmaktboks .text-10 {
+    width: 47.5669099756%;
+  }
+
+  .hjelpe-med .text-3 {
+    width: 102.1184530785%;
+  }
+
+  .hjelpe-med .text-5 {
+    margin-top: 15px;
+    margin-left: -1.24184%;
+  }
+
+  .hjelpe-med .text-6,
+  .hjelpe-med .text-7 {
+    margin-top: 0;
+    margin-left: -1.24184%;
+  }
+
+  .kontakt .text-14 {
+    margin-top: 25px;
+  }
+
+  .kontakt .text-15 {
+    position: relative;
+    clear: none;
+    z-index: 10;
+    margin-top: 17px;
+    margin-left: 2.09284%;
+    line-height: 0.18;
+  }
+
+  .kontakt .text-16 {
+    width: 100%;
+    margin-top: 16px;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 33;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 34;
+    width: 178px;
+    margin-top: 5px;
+  }
+
+  .container ._button-17 {
+    width: 85.6209150326%;
+    margin-left: 0;
+  }
+
+  .container ._button-4 {
+    position: relative;
+    z-index: 1;
+    margin-top: -26px;
+    margin-left: 5.60059%;
+  }
+
+  .containerdel2 ._button-12 {
+    font-style: normal;
+  }
+}
+
+@media(max-width: 640px) {
+  body {
+    font-size: 1em;
+  }
+
+  .container .containerdel1 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .container .containerdel2 {
+    clear: both;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .container .content {
+    height: auto;
+  }
+
+  .content .kontakt {
+    margin-top: 1px;
+    margin-left: -0.00814%;
+  }
+
+  .footer .footer {
+    padding-bottom: 40px;
+  }
+
+  .footer .menu_bottom {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .container .text-17,
+  .fullmaktboks .fullmakt {
+    width: 100%;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .main .hjelpe-med {
+    margin-left: -0.00543%;
+  }
+
+  .menu_bottom .container {
+    width: 97.0930232558%;
+    height: 440px;
+    margin-top: 44px;
+    margin-left: 1.55039%;
+  }
+
+  .topmenu .logocontainer {
+    width: 173px;
+    margin-top: 10px;
+  }
+
+  .topmenu .search {
+    left: 152px;
+    background-size: 30px 21px;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .kontakt ._button {
+    position: relative;
+    z-index: 11;
+    margin-top: 20px;
+  }
+
+  .kontakt ._input {
+    width: 97.8515625%;
+    margin-left: 1.15286%;
+  }
+
+  .kontakt ._textarea {
+    margin-top: 10px;
+  }
+
+  .menu_bottom ._select {
+    width: 252px;
+    margin-top: -514px;
+    margin-left: 0.34218%;
+  }
+
+  .topmenu ._button {
+    margin-left: 210px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 0;
+    width: 82.5429354242%;
+    margin-top: 61px;
+    margin-left: 5.60303%;
+    font-size: 2.5em;
+  }
+
+  .container .text-18 {
+    margin-left: -0.15405%;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 2;
+    width: 73.28125%;
+    margin-top: 27px;
+    margin-left: 5.60303%;
+  }
+
+  .footer .container-5 {
+    position: relative;
+    z-index: 45;
+    width: 48.9655172413%;
+    margin-top: 157px;
+    margin-left: 0.34483%;
+  }
+
+  .footer .container-6 {
+    float: left;
+    clear: both;
+    z-index: 46;
+    margin-top: -372px;
+    margin-right: 0;
+    margin-left: 0.34483%;
+  }
+
+  .footer .container-7 {
+    clear: none;
+    z-index: 41;
+    width: 32.7586206896%;
+    height: 68px;
+    margin-top: 40px;
+    margin-right: 0.3583%;
+  }
+
+  .footer .text-19 {
+    position: relative;
+    clear: none;
+    z-index: 40;
+    width: 48.7931034482%;
+    margin-top: 157px;
+    margin-left: 0;
+  }
+
+  .fullmaktboks .text-10 {
+    width: 100%;
+    margin-left: 0.1910399999%;
+  }
+
+  .fullmaktboks .text-8 {
+    margin-top: -25px;
+    margin-left: -1.0037%;
+  }
+
+  .fullmaktboks .text-9 {
+    margin-top: 0;
+  }
+
+  .hjelpe-med .text-5,
+  .hjelpe-med .text-6,
+  .hjelpe-med .text-7 {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .kontakt .text-11 {
+    margin-top: -31px;
+  }
+
+  .kontakt .text-12 {
+    margin-left: 1.23186%;
+  }
+
+  .kontakt .text-13 {
+    margin-top: 16px;
+    margin-left: 1.23186%;
+  }
+
+  .kontakt .text-14 {
+    margin-top: 15px;
+    margin-left: 1.23186%;
+  }
+
+  .kontakt .text-15 {
+    position: relative;
+    float: right;
+    z-index: 10;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .kontakt .text-16 {
+    margin-top: 5px;
+    margin-left: 1.15286%;
+  }
+
+  .logocontainer .image-1 {
+    display: none;
+    z-index: 33;
+    margin-top: 15px;
+    margin-left: 31.58418%;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 34;
+    width: 168px;
+    margin-top: 0;
+    margin-right: 2.21279%;
+  }
+
+  .container ._button-17 {
+    margin-top: 20px;
+  }
+
+  .container ._button-4 {
+    position: relative;
+    z-index: 1;
+    margin-top: -46px;
+    margin-left: 5.60303%;
+  }
+}
+
+@media(max-width: 400px) {
+  .container .content {
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .footer .footer {
+    margin-top: 40px;
+    padding-right: 0;
+    padding-left: 20px;
+  }
+
+  .footer .menu_bottom {
+    width: 100%;
+    margin-left: 0;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .main .fullmaktboks {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .main .hjelpe-med {
+    width: 99.8177842565%;
+    margin-left: 0;
+    padding: 20px;
+  }
+
+  .menu {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding-left: 20px;
+    border-width: 0;
+    border-style: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-position: 40% 50%;
+  }
+
+  .menu_bottom .container {
+    margin-top: 53px;
+  }
+
+  .topmenu .logocontainer {
+    width: 161px;
+    height: 47px;
+    margin-top: 6px;
+    margin-right: 7px;
+  }
+
+  .topmenu .search {
+    position: static;
+    float: left;
+    top: auto;
+    left: auto;
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+
+  .footer ._container {
+    margin-left: 0;
+  }
+
+  .footer ._element {
+    position: relative;
+  }
+
+  .fullmaktboks ._button,
+  .hjelpe-med .text-3 {
+    width: 100%;
+  }
+
+  .kontakt ._button {
+    position: relative;
+    z-index: 11;
+    width: 140px;
+    height: 44px;
+    margin-left: 1.41411%;
+  }
+
+  .content .kontakt,
+  .fullmaktboks .text-10,
+  .kontakt ._input {
+    margin-left: 0;
+  }
+
+  .menu_bottom ._select {
+    float: right;
+    width: 100%;
+    margin-top: -513px;
+    margin-left: 0;
+  }
+
+  .topmenu ._button {
+    margin-left: 12px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 0;
+    margin-top: 50px;
+    margin-left: 5.59766%;
+    font-size: 2.125em;
+    line-height: 1.08;
+  }
+
+  .container .text-18 {
+    width: 99.1689750692%;
+    margin-left: 0.2597%;
+  }
+
+  .container .text-2 {
+    position: relative;
+    z-index: 2;
+    min-height: 0;
+    margin-top: 12px;
+    margin-left: 5.59766%;
+  }
+
+  .container-1 {
+    position: relative;
+    z-index: 32;
+  }
+
+  .footer .container-5 {
+    position: relative;
+    z-index: 45;
+    width: 95%;
+    margin-top: 176px;
+  }
+
+  .footer .container-6 {
+    z-index: 46;
+    margin-top: -587px;
+    margin-left: 0;
+  }
+
+  .footer .container-7 {
+    z-index: 41;
+    width: 160px;
+    height: 69px;
+    margin-top: 23px;
+    margin-right: 5%;
+  }
+
+  .footer .text-19 {
+    position: relative;
+    clear: both;
+    z-index: 40;
+    width: 95%;
+    margin-top: 19px;
+  }
+
+  .footer-1 {
+    position: relative;
+    z-index: 63;
+  }
+
+  .fullmaktboks .text-8 {
+    margin-top: -31px;
+    margin-left: 0;
+  }
+
+  .fullmaktboks .text-9 {
+    margin-top: 11px;
+  }
+
+  .hjelpe-med .text-4 {
+    line-height: 1.38;
+  }
+
+  .kontakt .text-12 {
+    margin-top: 7px;
+    margin-left: 0;
+  }
+
+  .kontakt .text-13 {
+    margin-top: 13px;
+    margin-left: 0.10475%;
+  }
+
+  .kontakt .text-14 {
+    margin-top: 20px;
+    margin-left: 0.10475%;
+  }
+
+  .kontakt .text-15 {
+    position: relative;
+    z-index: 10;
+    margin-right: 20.58747%;
+  }
+
+  .kontakt .text-16 {
+    margin-top: 25px;
+    margin-left: 0.55866%;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 33;
+    margin-top: 13px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 34;
+    width: 150px;
+    margin-top: 6px;
+    margin-right: 2.47477%;
+  }
+
+  .container ._button-17 {
+    width: 99.4459833795%;
+    margin-top: 23px;
+    margin-left: 0.2597%;
+  }
+
+  .container ._button-4 {
+    position: relative;
+    z-index: 1;
+    margin-top: -118px;
+    margin-left: 5.59766%;
+  }
+}

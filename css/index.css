@@ -1,0 +1,2609 @@
+body {
+  background-color: rgb(246, 246, 246);
+  font: 400 1em/1.58 Georgia;
+  color: #333333;
+}
+
+.aktuelt {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  z-index: 50;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgb(255, 255, 255);
+}
+
+.asylfeltet_text {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 242px;
+}
+
+.bilde2 {
+  float: left;
+  width: 100%;
+  height: 163px;
+  background-image: url('../images/syriskeflyktninger.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.bilde2:hover,
+.frihet:hover {
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  opacity: 0.8;
+}
+
+.bilde3 {
+  float: left;
+  width: 100%;
+  height: 163px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.bilde3 .news1 {
+  width: 110.0617038216%;
+  height: 320px;
+  margin: -32px 0 0 -4.77679%;
+}
+
+.bliklokere {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 247px;
+  background: none rgb(203, 51, 59);
+  background-size: cover;
+  background-position: left center;
+}
+
+.bliklokere .text {
+  width: 57.6851851851%;
+  min-height: 37px;
+  margin: 55px 0 0 20.64323%;
+  font-size: 1.125em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container .text {
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.78;
+  color: rgb(255, 255, 255);
+}
+
+.containerdel1 {
+  float: left;
+  width: 48.4024859943%;
+}
+
+.containerdel2 {
+  float: left;
+  width: 48.4593837535%;
+  margin-left: 3.0191499999%;
+}
+
+.content_topcontainser {
+  float: left;
+  width: 100%;
+  height: 448px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.countries {
+  float: left;
+  width: 32.007400555%;
+  height: 325px;
+  padding: 30px;
+  border: 1px solid rgb(212, 212, 212);
+  background: url('../images/map.svg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: 313px 254.5px;
+  background-position: center bottom;
+}
+
+.countries .text {
+  padding-top: 10px;
+}
+
+.date {
+  float: left;
+  clear: both;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #777777;
+}
+
+.facebook_like {
+  position: relative;
+  float: right;
+  z-index: 6;
+  width: 280px;
+  height: 130px;
+  margin: -14px 0.33306% 0 0;
+  background-image: url('../images/Skjermbilde%202015-05-11%20kl.%2018.33.25.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.footer {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.footer .footer {
+  margin-top: 43px;
+  padding: 30px;
+  background-color: rgb(66, 66, 66);
+}
+
+.forsiden {
+  position: relative;
+  float: left;
+  z-index: 122;
+  width: 100%;
+  margin-top: 79px;
+}
+
+.frihet {
+  float: left;
+  width: 100%;
+  height: 163px;
+  border: 1px solid rgb(212, 212, 212);
+  background-image: url('../images/icon_frihet_red.svg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.frontpage {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 1500px;
+}
+
+.frontpageboxes {
+  float: left;
+  clear: both;
+  width: 90.0325520833%;
+  height: 325px;
+  margin: 30px 0 0 5%;
+}
+
+.fullmakt {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 46px;
+  border-radius: 25px;
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+}
+
+.fullmakt:hover {
+  border-radius: 23px;
+}
+
+.help {
+  float: left;
+  width: 32.007400555%;
+  height: 325px;
+  margin-left: 1.94085%;
+  padding: 30px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: rgb(255, 255, 255);
+}
+
+.help .text {
+  width: 100%;
+  padding-top: 10px;
+}
+
+.hjelpe {
+  float: left;
+  width: 58.75%;
+  margin: 114px 0 0 5.66667%;
+}
+
+.hjelpe .text {
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.imedia {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  z-index: 75;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgb(255, 255, 255);
+}
+
+.imedia1 {
+  position: relative;
+  float: left;
+  z-index: 74;
+  width: 29.6666666666%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.imedia2 {
+  position: relative;
+  float: left;
+  z-index: 70;
+  width: 30.6666666666%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+}
+
+.imedia2 .container,
+.imedia5 .container {
+  width: 100%;
+  height: 130px;
+  margin-left: -0.00953%;
+}
+
+.imedia2 .date,
+.imedia5 .date {
+  width: 100.2731062239%;
+  margin-left: -0.29059%;
+}
+
+.imedia2 .newstitle,
+.imedia5 .newstitle {
+  width: 100.2731062239%;
+  margin-left: -0.27153%;
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.imedia1 .newstitle:hover,
+.imedia2 .newstitle:hover,
+.imedia3 .newstitle:hover,
+.imedia4 .newstitle:hover,
+.imedia5 .newstitle:hover,
+.newstitle-13:hover,
+.newstitle-15:hover,
+.newstitle-17:hover,
+.newstitle-1:hover,
+.newstitle-3:hover,
+.newstitle-5:hover,
+.textcontent_imedia6 .newstitle:hover {
+  color: rgb(203, 51, 59);
+}
+
+.imedia3 {
+  position: relative;
+  float: left;
+  z-index: 66;
+  width: 29.6666666666%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+}
+
+.imedia1 .container,
+.imedia3 .container,
+.imedia4 .container {
+  width: 100%;
+  height: 130px;
+}
+
+.imedia3 .date,
+.textcontent_imedia6 .date {
+  width: 100.2835397701%;
+  margin-left: -0.30657%;
+}
+
+.imedia3 .newstitle,
+.textcontent_imedia6 .newstitle {
+  width: 100.2835397701%;
+  margin-left: -0.28184%;
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.imedia4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 62;
+  width: 29.6666666666%;
+  margin-left: 5%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+}
+
+.imedia1 .newstitle,
+.imedia4 .newstitle {
+  width: 100%;
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.imedia5 {
+  position: relative;
+  float: left;
+  z-index: 58;
+  width: 30.6666666666%;
+  margin-left: 0.93099%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.imedia6 {
+  position: relative;
+  float: left;
+  z-index: 54;
+  width: 29.6666666666%;
+  margin-left: 5%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.kortomnoas {
+  float: right;
+  width: 28.8333333333%;
+  margin: 136px 4.96615% 0 0;
+  padding: 30px;
+  border-top: 1px solid rgba(212, 212, 212, 0.4);
+  background-color: rgba(29, 29, 29, 0.2);
+}
+
+.kortomnoas .text {
+  width: 100%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.landselect {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 46px;
+  margin-top: 44px;
+  padding-left: 20px;
+  border-width: 1px;
+  border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(179, 179, 179);
+  border-style: solid;
+  border-radius: 25px;
+  background: none, url('../images/pil_ned_red.svg') rgb(246, 246, 246);
+  background-repeat: repeat, no-repeat;
+  background-size: auto auto, 20px 67.5px;
+  background-position: left top, 95% 50%;
+  background-attachment: scroll, scroll;
+  font: 300 1.125em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.landselect:hover {
+  background-repeat: no-repeat, no-repeat;
+  background-size: 20px 67.5px, 20px 67.5px;
+  background-color: rgb(240, 240, 240);
+}
+
+.landselect:active {
+  background-image: url('../images/pil_opp_red.svg'), none;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 20px auto, 20px 67.5px;
+  background-position: right center, 95% 50%;
+}
+
+.logocontainer {
+  float: right;
+  width: 437px;
+  height: 64px;
+  margin: 8px 16px 0 0;
+}
+
+.longstayingchildren {
+  float: left;
+  width: 32.007400555%;
+  height: 325px;
+  margin-left: 1.9611%;
+  padding: 30px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: rgb(255, 255, 255);
+}
+
+.aktuelt ._button:hover,
+.bliklokere ._button:hover,
+.hjelpe ._button:hover,
+.longstayingchildren:hover,
+.rapporter ._button:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+.longstayingchildren .container {
+  float: left;
+  clear: both;
+  width: 100.776303474%;
+  height: 46px;
+  margin: 10px 0 0 -0.29731%;
+  background-image: url('../images/icon_single_child_red.svg');
+  background-repeat: no-repeat;
+  background-size: 150px 200px;
+  background-position: center center;
+}
+
+.longstayingchildren .text {
+  clear: both;
+  width: 100%;
+  padding-top: 10px;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(203, 51, 59);
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  z-index: 129;
+  width: 105px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_menu_hvit(2).svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  background-position: 20% 50%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu_bottom {
+  float: left;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.menu_bottom .container {
+  width: 66.0329861111%;
+  height: 220px;
+}
+
+.news1 {
+  float: left;
+}
+
+.news1 .container,
+.rapport1 .container {
+  width: 100%;
+}
+
+.imedia1 .date,
+.imedia4 .date,
+.news1 .date,
+.rapport1 .date {
+  width: 100%;
+}
+
+.news1 .newstitle,
+.rapport1 .newstitle {
+  width: 100%;
+}
+
+.news2,
+.rapport2 {
+  float: left;
+  width: 30.6666666666%;
+  margin-top: 23px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-left: 1px solid rgb(212, 212, 212);
+}
+
+.news2 .container {
+  clear: both;
+  width: 100%;
+  height: 244px;
+  margin-left: -0.0095600001%;
+}
+
+.news2 .date,
+.rapporttekst2 .date {
+  width: 100.2731062239%;
+  margin-left: -0.27236%;
+}
+
+.news2 .newstitle,
+.rapporttekst2 .newstitle {
+  width: 100.2731062239%;
+  margin-left: -0.27236%;
+}
+
+.news3,
+.rapport3 {
+  float: left;
+  width: 29.6666666666%;
+  margin-top: 23px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-left: 1px solid rgb(212, 212, 212);
+}
+
+.countries:hover,
+.help:hover,
+.imedia1:hover,
+.imedia2:hover,
+.imedia3:hover,
+.imedia4:hover,
+.imedia5:hover,
+.imedia6:hover,
+.news1-1:hover,
+.news2:hover,
+.news3:hover,
+.rapport1:hover,
+.rapport2:hover,
+.rapport3:hover {
+  background-color: rgb(246, 246, 246);
+}
+
+.news3 .bilde3 {
+  background-image: url('../images/asylavtalen.jpg');
+}
+
+.news3 .container {
+  clear: both;
+  width: 100%;
+  height: 242px;
+}
+
+.asylfeltet_text .date,
+.news3 .date {
+  width: 100.2835397701%;
+  margin-left: -0.28274%;
+}
+
+.asylfeltet_text .newstitle,
+.news3 .newstitle {
+  width: 100.2835397701%;
+  margin-left: -0.28274%;
+}
+
+.newsbutton {
+  display: block;
+  position: relative;
+  float: left;
+  width: 13.5%;
+  height: 44px;
+  border-top-right-radius: 10px;
+  font: 300 1.125em/1.38 'Open Sans';
+  text-align: center;
+}
+
+.newsbutton:hover {
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(203, 51, 59);
+}
+
+.newsbutton:active,
+.newsbutton:focus {
+  background-color: rgb(255, 255, 255);
+}
+
+.newstabs {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.newstitle {
+  float: left;
+}
+
+.rapport1 {
+  position: relative;
+  float: left;
+  z-index: 81;
+  width: 29.6666666666%;
+  margin: 23px 0 0 5%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.rapport3 .bilde3 {
+  background-image: url('../images/hjelp.jpg');
+}
+
+.rapporter {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  z-index: 95;
+  width: 100%;
+  padding-bottom: 40px;
+  background-color: rgb(255, 255, 255);
+}
+
+.rapporttekst2 {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 244px;
+  margin-left: -0.0095600001%;
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 141px;
+  z-index: 126;
+  width: 44px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_search_white.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 22px 22px;
+  background-position: center center;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu:hover,
+.search:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.summary {
+  float: left;
+  clear: both;
+  width: 100.5146651909%;
+  margin-left: -0.51203%;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text {
+  float: left;
+}
+
+.text-12 p {
+  margin-bottom: 1em;
+}
+
+.textcontent_imedia6 {
+  float: left;
+  width: 100%;
+  height: 130px;
+}
+
+.title {
+  float: left;
+  width: 100.5146651909%;
+  min-height: 49px;
+  margin-left: -0.51203%;
+  padding-top: 10px;
+  font: 1.688em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.topcontainer {
+  float: left;
+  width: 100%;
+  height: 448px;
+  background: url('../images/test_1140.jpg') rgba(0, 0, 0, 0.99);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left bottom;
+}
+
+.topmenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 128;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(203, 51, 59);
+}
+
+.toptext_longstaying {
+  float: left;
+  width: 100%;
+}
+
+._button {
+  display: block;
+}
+
+._container {
+  float: left;
+}
+
+._select {
+  display: block;
+  float: right;
+  width: 25.9253472222%;
+  height: 46px;
+  padding-left: 20px;
+  border-width: 1px;
+  border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(179, 179, 179);
+  border-style: solid;
+  border-radius: 23px;
+  background: url('../images/pil_ned_red.svg') rgb(246, 246, 246);
+  background-repeat: no-repeat;
+  background-size: 20px 67.5px;
+  background-position: 95% 50%;
+  font: 300 1.125em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.aktuelt ._button,
+.rapporter ._button {
+  float: left;
+  clear: both;
+  width: 179px;
+  height: 46px;
+  margin: 37px 0 0 5%;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 23px;
+  background-color: rgb(255, 255, 255);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.bliklokere ._button {
+  width: 21.9166666666%;
+  height: 46px;
+  margin: 139px auto 0;
+  border-radius: 23px;
+  background-color: rgb(255, 255, 255);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.container ._button {
+  float: left;
+  background-repeat: no-repeat;
+}
+
+.containerdel1 ._button,
+.containerdel2 ._button {
+  width: 100%;
+  height: 44px;
+  padding-left: 40px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+  border-radius: 3px;
+  background-image: url('../images/bullet.svg');
+  background-size: 8px 56.5px;
+  background-position: 5% 50%;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: left;
+  color: rgb(203, 51, 59);
+}
+
+.footer ._element {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 1;
+  width: 17.3333333333%;
+  height: 73px;
+  margin-top: -73px;
+  background-image: url('../images/logo_hvit2@.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+}
+
+.hjelpe ._button {
+  float: left;
+  clear: both;
+  width: 33.6215415019%;
+  height: 46px;
+  margin: 30px 0 0 -0.14628%;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 25px;
+  background: url('../images/icon_hjerte_rod.svg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background-position: 10% 50%;
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(203, 51, 59);
+}
+
+.news1 ._container,
+.rapport1 ._container {
+  clear: both;
+  height: 244px;
+}
+
+.news1 ._element {
+  float: left;
+  height: 163px;
+  background-image: url('../images/Rasmus-Hansson-MDG-758x400.jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.rapport1 ._element {
+  float: left;
+  height: 163px;
+  background-image: url('../images/Portrait_window_web_dc.byhands-758x400.jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.topmenu ._button {
+  float: left;
+  width: 44px;
+  height: 44px;
+  margin: 14px 0 0 204px;
+  border: 1px solid rgba(246, 246, 246, 0.56);
+  border-radius: 22px;
+  background-color: rgb(203, 51, 59);
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.topmenu ._button:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.container-14 {
+  width: 22.1929824561%;
+  height: 203px;
+  margin-left: 2.63158%;
+}
+
+.footer-1 {
+  padding-top: 20px;
+  border-top: 1px solid rgb(238, 238, 238);
+  background-color: rgb(255, 255, 255);
+}
+
+.fullmakt-1 {
+  margin-top: 19px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: rgb(246, 246, 246);
+  color: rgb(203, 51, 59);
+}
+
+.fullmakt-1:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+.fullmakt-2 {
+  margin-top: 12px;
+  padding-left: 20px;
+  background: url('../images/icon_fullmaktskjema_hvit.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 25px 145.5px;
+  background-position: 5% 50%;
+  color: rgb(255, 255, 255);
+}
+
+.fullmakt-2:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.image-1 {
+  float: left;
+  width: 188px;
+  margin-top: 13px;
+}
+
+.image-2 {
+  float: right;
+  width: 211px;
+}
+
+.news1-1 {
+  position: relative;
+  z-index: 35;
+  width: 29.6666666666%;
+  margin: 23px 0 0 5%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.newsbutton-1 {
+  z-index: 27;
+  margin-left: 5%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(52, 52, 52);
+}
+
+.newsbutton-2 {
+  z-index: 28;
+  margin-left: 1px;
+  background-color: rgb(212, 212, 212);
+  color: rgb(0, 0, 0);
+}
+
+.newsbutton-3 {
+  z-index: 29;
+  margin-left: 1px;
+  background-color: rgb(212, 212, 212);
+  color: rgb(0, 0, 0);
+}
+
+.newstitle-1,
+.newstitle-13,
+.newstitle-15,
+.newstitle-17,
+.newstitle-3,
+.newstitle-5 {
+  padding-top: 20px;
+  font: 1.25em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.newstitle-14,
+.newstitle-16,
+.newstitle-18,
+.newstitle-2,
+.newstitle-4,
+.newstitle-6 {
+  clear: both;
+  padding-top: 10px;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-1 {
+  width: 99.8394268774%;
+  min-height: 66px;
+  padding-top: 20px;
+  font-family: 'PT Serif';
+  font-size: 3.125em;
+  font-weight: 700;
+}
+
+.text-10 {
+  width: 90.8723455598%;
+  margin-left: -0.16675%;
+}
+
+.text-11 {
+  clear: both;
+  width: 98.0694980694%;
+  margin: 15px 0 0 1.5378%;
+}
+
+.text-12 {
+  width: 21.0833333333%;
+  margin-left: 1.96409%;
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.78;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  clear: both;
+  width: 86.1660079051%;
+  margin-top: 10px;
+  font-family: 'Open Sans';
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.text-4 {
+  width: 100%;
+  min-height: 49px;
+  font: 1.688em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  clear: both;
+  width: 91.1184210526%;
+  font-size: 1em;
+  color: #333333;
+}
+
+.text-6 {
+  min-height: 49px;
+  font: 1.688em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  clear: both;
+  font-size: 1em;
+  color: #333333;
+}
+
+.container ._button-16 {
+  clear: both;
+  width: 79.1505791505%;
+  height: 46px;
+  margin: 22px 0 0 1.5378%;
+  border-radius: 23px;
+  background-image: url('../images/icon_kart_hvit.svg');
+  background-size: 20px 20px;
+  background-position: 10% 50%;
+  background-color: rgb(96, 96, 96);
+  font: 300 1.125em/2.38 'Open Sans';
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-16:hover {
+  background-color: rgb(126, 125, 125);
+}
+
+.containerdel1 ._button-10,
+.containerdel1 ._button-7,
+.containerdel1 ._button-8,
+.containerdel1 ._button-9,
+.containerdel2 ._button-12,
+.containerdel2 ._button-13,
+.containerdel2 ._button-14,
+.containerdel2 ._button-15 {
+  clear: both;
+}
+
+.newstitle a,
+.newstitle span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-size: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-1 span {
+  font-family: inherit;
+  font-style: inherit;
+}
+
+.text-12 span {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+}
+
+.text-5 a {
+  text-decoration: inherit;
+}
+
+.text-3 a,
+.text-9 a {
+  text-decoration: underline;
+}
+
+.text-9 a:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+@media(max-width: 960px) {
+  .containerdel1 ._button:hover {
+    font-style: normal;
+    text-decoration: underline;
+  }
+
+  .aktuelt .news2 {
+    clear: both;
+    width: 90.2083333333%;
+    margin-top: 0;
+    margin-left: 4.79167%;
+    padding-top: 25px;
+    border-top-width: 1px;
+    border-top-color: rgb(212, 212, 212);
+  }
+
+  .aktuelt .news3,
+  .rapporter .rapport3 {
+    clear: both;
+    width: 90.2083333333%;
+    margin-top: 0;
+    margin-left: 4.79167%;
+    padding-top: 20px;
+    border-top-width: 1px;
+    border-top-color: rgb(212, 212, 212);
+  }
+
+  .asylfeltet_text .date {
+    width: 99.9636803874%;
+    margin-top: 10px;
+    margin-left: 0.02843%;
+  }
+
+  .bilde3 .news1 {
+    width: 110.0651658767%;
+    margin-left: -4.77926%;
+  }
+
+  .bliklokere .text {
+    margin-left: 20.6412799999%;
+  }
+
+  .container .containerdel1 {
+    width: 50%;
+    margin-left: -0.08868%;
+  }
+
+  .container .containerdel2 {
+    width: 46.9387755102%;
+    margin-top: 5px;
+    margin-left: 2.93878%;
+  }
+
+  .container .text {
+    margin-left: 0;
+  }
+
+  .content_topcontainser .hjelpe {
+    width: 89.375%;
+    margin-left: 5.625%;
+  }
+
+  .content_topcontainser .kortomnoas {
+    clear: both;
+    width: 90.2083333333%;
+    margin-top: 27px;
+    margin-right: 4.79167%;
+  }
+
+  .countries .landselect {
+    margin-top: 22px;
+  }
+
+  .footer .facebook_like {
+    position: relative;
+    z-index: 6;
+    margin-top: -215px;
+    margin-right: 1.60764%;
+  }
+
+  .footer .footer {
+    margin-top: 0;
+  }
+
+  .footer .menu_bottom {
+    width: 100%;
+    margin-left: 0;
+    padding: 30px;
+  }
+
+  .forsiden {
+    position: relative;
+    z-index: 122;
+    margin-top: 59px;
+  }
+
+  .forsiden .frontpage {
+    height: 2100px;
+  }
+
+  .frontpage .frontpageboxes {
+    width: 89.9576822916%;
+    height: auto;
+    margin-top: 48px;
+  }
+
+  .frontpage .newstabs {
+    margin-top: 40px;
+  }
+
+  .frontpageboxes .countries {
+    position: relative;
+    z-index: 111;
+    width: 48.9583333333%;
+  }
+
+  .frontpageboxes .help {
+    position: relative;
+    z-index: 107;
+    width: 49.074074074%;
+    margin-left: 1.945%;
+  }
+
+  .frontpageboxes .longstayingchildren {
+    clear: both;
+    width: 99.8842592592%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+
+  .hjelpe .text {
+    margin-left: -0.14751%;
+  }
+
+  .imedia .imedia1 {
+    position: relative;
+    clear: both;
+    z-index: 74;
+    width: 90.2083333333%;
+    margin-left: 4.79167%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-top: 1px solid rgb(238, 238, 238);
+  }
+
+  .imedia .imedia2 {
+    position: relative;
+    clear: both;
+    z-index: 70;
+    width: 90.2083333333%;
+    margin-left: 5%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .imedia .imedia3 {
+    position: relative;
+    clear: both;
+    z-index: 66;
+    width: 90.2083333333%;
+    margin-left: 4.79167%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .imedia .imedia4 {
+    position: relative;
+    z-index: 62;
+    width: 89.7916666666%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .imedia .imedia5 {
+    position: relative;
+    clear: both;
+    z-index: 58;
+    width: 90.2083333333%;
+    margin-left: 5%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-top: 1px solid rgb(238, 238, 238);
+  }
+
+  .imedia .imedia6 {
+    position: relative;
+    z-index: 54;
+    width: 90.2083333333%;
+    margin-left: 4.79167%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .imedia1 .container {
+    width: 69.0909090909%;
+    height: auto;
+  }
+
+  .imedia1 .date,
+  .imedia1 .newstitle {
+    width: 99.6274038461%;
+    margin-left: -0.34752%;
+  }
+
+  .imedia2 .container {
+    width: 102.0606060606%;
+    height: auto;
+    margin-left: 0;
+  }
+
+  .imedia2 .date,
+  .imedia2 .newstitle,
+  .imedia5 .date,
+  .imedia5 .newstitle {
+    width: 99.9941724941%;
+    margin-left: 0;
+  }
+
+  .frontpage .topcontainer,
+  .imedia3 .container,
+  .imedia4 .container,
+  .imedia6 .textcontent_imedia6 {
+    height: auto;
+  }
+
+  .imedia3 .date {
+    width: 99.9636803874%;
+    margin-left: 0.02586%;
+  }
+
+  .imedia3 .newstitle {
+    width: 99.9636803874%;
+    margin-left: 0;
+  }
+
+  .imedia4 .date {
+    width: 99.6274038461%;
+    margin-left: -0.33403%;
+  }
+
+  .imedia4 .newstitle,
+  .rapport1 .date {
+    width: 99.6274038461%;
+  }
+
+  .imedia5 .container {
+    height: auto;
+    margin-left: 0;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .longstayingchildren .container {
+    position: relative;
+    float: right;
+    clear: none;
+    z-index: 98;
+    width: 32.3509894999%;
+    height: 137px;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .longstayingchildren .text {
+    width: 67.6654182272%;
+    text-align: left;
+  }
+
+  .longstayingchildren .toptext_longstaying {
+    position: relative;
+    z-index: 101;
+    width: 67.3250322026%;
+    margin-left: -0.00976%;
+  }
+
+  .menu {
+    top: 8px;
+    width: 124px;
+  }
+
+  .menu_bottom .container {
+    width: 97.8888888888%;
+    height: 225px;
+    margin-top: 40px;
+    margin-left: 0.10938%;
+  }
+
+  .news1 .date {
+    width: 99.6274038461%;
+    margin-left: -0.34564%;
+  }
+
+  .news1 .newstitle {
+    width: 99.6274038461%;
+    margin-left: -0.34564%;
+  }
+
+  .news2 .bilde2,
+  .rapport2 .frihet {
+    width: 31.1893203883%;
+    height: 170px;
+  }
+
+  .news2 .date {
+    width: 99.9941724941%;
+    margin-left: 0.00569%;
+  }
+
+  .news2 .newstitle {
+    width: 99.9941724941%;
+    margin-left: 0.00569%;
+  }
+
+  .news3 .bilde3,
+  .rapport3 .bilde3 {
+    width: 31.1893203883%;
+    height: 200px;
+  }
+
+  .news2 .container,
+  .news3 .container,
+  .rapport3 .asylfeltet_text {
+    clear: none;
+    width: 66.6262135922%;
+    height: auto;
+    margin-left: 2.18182%;
+  }
+
+  .asylfeltet_text .newstitle,
+  .news3 .date {
+    width: 99.9636803874%;
+    margin-left: 0.02843%;
+  }
+
+  .news3 .newstitle {
+    width: 99.9636803874%;
+    margin-left: 0.02843%;
+  }
+
+  .newstabs .newsbutton {
+    position: relative;
+  }
+
+  .rapport1 .newstitle {
+    width: 99.6274038461%;
+    margin-left: -0.3469%;
+  }
+
+  .rapport2 .rapporttekst2 {
+    clear: none;
+    width: 66.6262135922%;
+    height: auto;
+    margin-left: 2.18107%;
+  }
+
+  .rapporter .rapport1 {
+    position: relative;
+    z-index: 81;
+    width: 90.2083333333%;
+    margin-left: 4.79167%;
+    padding-top: 20px;
+  }
+
+  .rapporter .rapport2 {
+    clear: both;
+    width: 90.2083333333%;
+    margin-top: 0;
+    margin-left: 4.79167%;
+    padding-top: 25px;
+    border-top-width: 1px;
+    border-left-width: 0;
+    border-top-color: rgb(212, 212, 212);
+    border-left-style: none;
+  }
+
+  .rapporttekst2 .date {
+    width: 99.9941724941%;
+    margin-top: 8px;
+    margin-left: -0.05395%;
+  }
+
+  .rapporttekst2 .newstitle {
+    width: 99.9941724941%;
+  }
+
+  .textcontent_imedia6 .date {
+    width: 99.9636803874%;
+    margin-left: -0.04987%;
+  }
+
+  .textcontent_imedia6 .newstitle {
+    width: 99.9636803874%;
+    margin-left: 0.00739%;
+  }
+
+  .topcontainer .content_topcontainser {
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  .topmenu {
+    height: 60px;
+  }
+
+  .topmenu .logocontainer {
+    width: 369px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 6px;
+  }
+
+  .topmenu .search {
+    top: 8px;
+    left: 161px;
+    border-radius: 22px;
+  }
+
+  .toptext_longstaying .summary,
+  .toptext_longstaying .title {
+    width: 100.2324500232%;
+    margin-left: -0.23191%;
+  }
+
+  .aktuelt ._button,
+  .rapporter ._button {
+    width: 90%;
+    height: 44px;
+    margin-top: 22px;
+    margin-left: 4.75749%;
+    border-top-right-radius: 22px;
+  }
+
+  .bliklokere ._button {
+    width: 210px;
+    margin-top: 156px;
+  }
+
+  .containerdel2 ._button:hover {
+    text-decoration: underline;
+  }
+
+  .footer ._element {
+    position: relative;
+    z-index: 1;
+    width: 20.5208333333%;
+    height: 87px;
+    margin-top: -232px;
+    margin-right: 2%;
+  }
+
+  .hjelpe ._button {
+    width: 40.0932400932%;
+    margin-top: 49px;
+    margin-left: 0;
+  }
+
+  .menu_bottom ._select {
+    float: left;
+    clear: both;
+    width: 230px;
+    margin-top: -278px;
+    margin-left: 2%;
+  }
+
+  .news1 ._container {
+    clear: none;
+    width: 66.2227602905%;
+    height: auto;
+    margin-left: 2.13756%;
+  }
+
+  .news1 ._element,
+  .rapport1 ._element {
+    width: 31.2727272727%;
+    height: 200px;
+    background-position: center center;
+  }
+
+  .rapport1 ._container {
+    clear: none;
+    width: 64.8910411622%;
+    height: auto;
+    margin-left: 2.11108%;
+  }
+
+  .topmenu ._button {
+    margin-top: 8px;
+    margin-left: 220px;
+  }
+
+  .aktuelt .news1-1 {
+    position: relative;
+    z-index: 35;
+    width: 90.2083333333%;
+    margin-left: 4.79167%;
+    padding-top: 20px;
+  }
+
+  .container .newstitle-13,
+  .container .newstitle-15,
+  .container .newstitle-17 {
+    padding-top: 10px;
+  }
+
+  .container .text-10 {
+    width: 93.4640522875%;
+  }
+
+  .container .text-11 {
+    width: 92.8104575163%;
+    margin-top: 20px;
+  }
+
+  .countries .text-5 {
+    width: 100%;
+  }
+
+  .footer .container-14 {
+    position: relative;
+    z-index: 5;
+    width: 31.1111111111%;
+    height: auto;
+    margin-left: 1.55556%;
+  }
+
+  .footer .text-12 {
+    position: relative;
+    clear: both;
+    z-index: 0;
+    width: 34.2222222222%;
+    margin-top: 20px;
+    margin-left: 1.55556%;
+  }
+
+  .help .fullmakt-1 {
+    margin-top: 20px;
+  }
+
+  .help .fullmakt-2 {
+    margin-top: 5px;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 123;
+    margin-top: 10px;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 124;
+    width: 178px;
+    margin-top: 5px;
+  }
+
+  .newstabs .newsbutton-1 {
+    z-index: 27;
+    width: 28.1746031746%;
+    margin-left: 4.75098%;
+  }
+
+  .newstabs .newsbutton-2 {
+    z-index: 28;
+    width: 29.2658730158%;
+    margin-left: 2px;
+  }
+
+  .newstabs .newsbutton-3 {
+    z-index: 29;
+    width: 27.2817460317%;
+    margin-left: 2px;
+  }
+
+  .rapporttekst2 .newstitle-3 {
+    margin-left: 0;
+  }
+
+  .rapporttekst2 .newstitle-4 {
+    margin-left: 0.00568%;
+  }
+
+  .container ._button-16 {
+    width: 85.6209150326%;
+    margin-left: 0;
+  }
+
+  .containerdel2 ._button-11 {
+    font-style: normal;
+  }
+}
+
+@media(max-width: 640px) {
+  body {
+    font-size: 1em;
+  }
+
+  .aktuelt .news2,
+  .aktuelt .news3,
+  .rapporter .rapport3 {
+    margin-left: 4.79004%;
+    border-left-width: 0;
+    border-left-style: none;
+  }
+
+  .bilde3 .news1 {
+    margin-left: -4.77769%;
+  }
+
+  .bliklokere {
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  .bliklokere .text {
+    float: none;
+    width: 74.375%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .container .containerdel1 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .container .containerdel2 {
+    clear: both;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .content_topcontainser .hjelpe {
+    margin-top: 80px;
+  }
+
+  .content_topcontainser .kortomnoas {
+    margin-right: 4.78516%;
+  }
+
+  .countries .landselect {
+    font-size: 1em;
+  }
+
+  .footer .facebook_like {
+    position: relative;
+    float: left;
+    clear: both;
+    z-index: 6;
+    margin-top: -372px;
+    margin-right: 0;
+    margin-left: 0.34483%;
+  }
+
+  .footer .footer {
+    padding-bottom: 40px;
+  }
+
+  .forsiden {
+    position: relative;
+    z-index: 122;
+  }
+
+  .forsiden .frontpage {
+    height: 2800px;
+  }
+
+  .frontpage .frontpageboxes {
+    width: 89.9560546875%;
+    margin-top: 49px;
+  }
+
+  .frontpage .newstabs {
+    margin-top: 70px;
+  }
+
+  .frontpageboxes .countries {
+    position: relative;
+    z-index: 111;
+    width: 100.0488519785%;
+    height: auto;
+    margin-left: -0.04885%;
+    padding-top: 0;
+  }
+
+  .frontpageboxes .help {
+    position: relative;
+    clear: both;
+    z-index: 107;
+    width: 99.7014601313%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 0;
+    padding-top: 0;
+  }
+
+  .help .fullmakt {
+    font-size: 1em;
+  }
+
+  .hjelpe .text {
+    margin-left: -0.13112%;
+  }
+
+  .imedia .imedia1 {
+    position: relative;
+    z-index: 74;
+    margin-left: 4.78516%;
+  }
+
+  .imedia .imedia2 {
+    position: relative;
+    z-index: 70;
+  }
+
+  .imedia .imedia3 {
+    position: relative;
+    z-index: 66;
+    margin-left: 4.78516%;
+  }
+
+  .imedia .imedia4 {
+    position: relative;
+    z-index: 62;
+  }
+
+  .imedia .imedia5 {
+    position: relative;
+    z-index: 58;
+  }
+
+  .imedia .imedia6 {
+    position: relative;
+    z-index: 54;
+    margin-top: 20px;
+    margin-left: 5%;
+  }
+
+  .imedia1 .date,
+  .imedia1 .newstitle {
+    margin-left: -0.34484%;
+  }
+
+  .imedia3 .date {
+    margin-left: 0.02243%;
+  }
+
+  .imedia4 .date {
+    margin-left: -0.3296%;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .longstayingchildren .container {
+    position: relative;
+    z-index: 98;
+  }
+
+  .longstayingchildren .text {
+    position: relative;
+    z-index: 97;
+    margin-top: -20px;
+    margin-left: -0.23451%;
+  }
+
+  .longstayingchildren .toptext_longstaying {
+    position: relative;
+    z-index: 101;
+    width: 67.3732297852%;
+    margin-left: 0;
+  }
+
+  .menu {
+    left: 1.9995117187%;
+  }
+
+  .menu_bottom .container {
+    width: 86.5517241379%;
+    height: 440px;
+    margin-top: 44px;
+    margin-left: 6.72414%;
+  }
+
+  .news1 .container {
+    width: 100%;
+    margin-left: 0.06107%;
+  }
+
+  .container .newstitle-2,
+  .news1 .date,
+  .news1 .newstitle {
+    margin-left: -0.34895%;
+  }
+
+  .news2 .bilde2,
+  .rapport2 .frihet {
+    width: 100%;
+    height: 200px;
+  }
+
+  .news2 .container,
+  .rapport2 .rapporttekst2 {
+    clear: both;
+    width: 100%;
+    margin-left: 0.06107%;
+  }
+
+  .container .newstitle-1,
+  .news2 .date,
+  .news2 .newstitle,
+  .rapporttekst2 .newstitle-4 {
+    margin-left: 0;
+  }
+
+  .container .text-10,
+  .imedia1 .container,
+  .imedia2 .container,
+  .news3 .bilde3,
+  .rapport3 .bilde3 {
+    width: 100%;
+  }
+
+  .news3 .container,
+  .rapport3 .asylfeltet_text {
+    clear: both;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .asylfeltet_text .date,
+  .asylfeltet_text .newstitle,
+  .news3 .date,
+  .news3 .newstitle {
+    margin-left: 0.02617%;
+  }
+
+  .newstabs .newsbutton {
+    position: relative;
+    font-size: 1em;
+  }
+
+  .rapport1 .container {
+    width: 100%;
+  }
+
+  .rapport1 .date {
+    margin-top: 10px;
+    margin-left: -0.34895%;
+  }
+
+  .rapporter .rapport1 {
+    position: relative;
+    z-index: 81;
+    margin-left: 4.79004%;
+  }
+
+  .rapporter .rapport2 {
+    margin-left: 4.79004%;
+  }
+
+  .rapporttekst2 .date {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .textcontent_imedia6 .date {
+    margin-left: -0.04486%;
+  }
+
+  .textcontent_imedia6 .newstitle {
+    margin-left: 0.00561%;
+  }
+
+  .topmenu .logocontainer {
+    width: 173px;
+    margin-top: 10px;
+  }
+
+  .topmenu .search {
+    left: 152px;
+    background-size: 30px 21px;
+  }
+
+  .toptext_longstaying .summary,
+  .toptext_longstaying .title {
+    width: 100.1812743587%;
+    margin-left: -0.18082%;
+  }
+
+  .aktuelt ._button,
+  .rapporter ._button {
+    width: 90.3125%;
+    margin-left: 4.6875%;
+  }
+
+  .bliklokere ._button {
+    width: 306px;
+    margin-top: 10px;
+  }
+
+  .footer ._element {
+    position: relative;
+    clear: none;
+    z-index: 1;
+    width: 32.7586206896%;
+    height: 68px;
+    margin-top: 40px;
+    margin-right: 0.3583%;
+  }
+
+  .hjelpe ._button {
+    width: 48.6013986013%;
+  }
+
+  .menu_bottom ._select {
+    width: 252px;
+    margin-top: -502px;
+    margin-left: 8.78233%;
+  }
+
+  .news1 ._container {
+    clear: both;
+  }
+
+  .rapport1 ._container {
+    clear: both;
+    margin-left: 0;
+  }
+
+  .rapport1 ._element {
+    margin-left: 0.06107%;
+  }
+
+  .topmenu ._button {
+    margin-left: 210px;
+  }
+
+  .aktuelt .news1-1 {
+    position: relative;
+    z-index: 35;
+    margin-left: 4.79004%;
+  }
+
+  .container .text-11 {
+    margin-left: -0.15405%;
+  }
+
+  .footer .container-14 {
+    position: relative;
+    z-index: 5;
+    width: 48.9655172413%;
+    margin-top: 157px;
+    margin-left: 0.34483%;
+  }
+
+  .footer .text-12 {
+    position: relative;
+    clear: none;
+    z-index: 0;
+    width: 48.7931034482%;
+    margin-top: 157px;
+    margin-left: 0;
+  }
+
+  .help .fullmakt-2 {
+    margin-top: 12px;
+  }
+
+  .countries .text-4,
+  .help .text-6 {
+    margin-top: 10px;
+  }
+
+  .logocontainer .image-1 {
+    display: none;
+    z-index: 123;
+    margin-top: 15px;
+    margin-left: 31.58418%;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 124;
+    width: 168px;
+    margin-top: 0;
+    margin-right: 2.21279%;
+  }
+
+  .newstabs .newsbutton-1 {
+    z-index: 27;
+    margin-left: 4.73877%;
+  }
+
+  .newstabs .newsbutton-2 {
+    z-index: 28;
+  }
+
+  .newstabs .newsbutton-3 {
+    z-index: 29;
+    width: 32.1875%;
+  }
+
+  .container ._button-16 {
+    margin-top: 20px;
+  }
+}
+
+@media(max-width: 400px) {
+  .aktuelt .news2,
+  .aktuelt .news3,
+  .rapporter .rapport2,
+  .rapporter .rapport3 {
+    margin-left: 4.78516%;
+  }
+
+  .bilde3 .news1 {
+    margin-left: -4.76793%;
+  }
+
+  .bliklokere {
+    position: relative;
+    z-index: 26;
+  }
+
+  .content_topcontainser .hjelpe {
+    margin-top: 60px;
+  }
+
+  .footer .facebook_like {
+    position: relative;
+    z-index: 6;
+    margin-top: -587px;
+    margin-left: 0;
+  }
+
+  .footer .footer {
+    margin-top: 40px;
+    padding-right: 0;
+    padding-left: 20px;
+  }
+
+  .footer .menu_bottom {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .forsiden {
+    position: relative;
+    z-index: 122;
+    margin-top: 60px;
+  }
+
+  .forsiden .frontpage {
+    height: 3200px;
+  }
+
+  .frontpage .frontpageboxes {
+    width: 89.95703125%;
+    margin-top: 30px;
+  }
+
+  .frontpage .newstabs {
+    margin-top: 30px;
+  }
+
+  .frontpageboxes .countries {
+    position: relative;
+    z-index: 111;
+    margin-left: -0.04777%;
+  }
+
+  .frontpageboxes .help {
+    position: relative;
+    z-index: 107;
+  }
+
+  .hjelpe .text {
+    margin-left: -0.13549%;
+  }
+
+  .imedia .imedia1 {
+    position: relative;
+    z-index: 74;
+  }
+
+  .imedia .imedia2 {
+    position: relative;
+    z-index: 70;
+    margin-left: 4.78516%;
+  }
+
+  .imedia .imedia3 {
+    position: relative;
+    z-index: 66;
+  }
+
+  .imedia .imedia4 {
+    position: relative;
+    z-index: 62;
+  }
+
+  .imedia .imedia5 {
+    position: relative;
+    z-index: 58;
+    margin-left: 4.78516%;
+  }
+
+  .imedia .imedia6 {
+    position: relative;
+    z-index: 54;
+    margin-top: 0;
+  }
+
+  .imedia1 .date {
+    margin-left: -0.33008%;
+  }
+
+  .imedia1 .newstitle {
+    margin-left: 0;
+    font-size: 1.125em;
+  }
+
+  .imedia2 .newstitle,
+  .imedia5 .newstitle {
+    font-size: 1.125em;
+  }
+
+  .imedia3 .date,
+  .textcontent_imedia6 .date {
+    margin-left: 0.00917%;
+  }
+
+  .imedia3 .newstitle,
+  .textcontent_imedia6 .newstitle {
+    margin-left: 0.00917%;
+    font-size: 1.125em;
+  }
+
+  .asylfeltet_text .date,
+  .asylfeltet_text .newstitle,
+  .imedia4 .date {
+    margin-left: 0;
+  }
+
+  .imedia4 .newstitle {
+    width: 100%;
+    margin-left: -0.33171%;
+    font-size: 1.125em;
+  }
+
+  .imedia5 .container {
+    margin-left: 0.04126%;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .longstayingchildren .container {
+    display: none;
+    position: relative;
+    float: left;
+    clear: both;
+    z-index: 98;
+    width: 71.6192077335%;
+    height: 98px;
+    margin-top: 35px;
+    margin-left: 14.1904%;
+    background-image: none;
+    background-size: cover;
+  }
+
+  .longstayingchildren .text {
+    position: relative;
+    z-index: 97;
+    width: 99.8634023326%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .longstayingchildren .toptext_longstaying {
+    position: relative;
+    z-index: 101;
+    width: 103.2258064516%;
+  }
+
+  .menu {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding-left: 20px;
+    border-width: 0;
+    border-style: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-position: 40% 50%;
+  }
+
+  .menu_bottom .container {
+    margin-top: 53px;
+  }
+
+  .news1 .container {
+    margin-left: 0;
+  }
+
+  .news1 .date,
+  .news1 .newstitle,
+  .rapport1 .date,
+  .rapport1 .newstitle {
+    margin-left: -0.2289%;
+  }
+
+  .news2 .container {
+    margin-left: 0.05844%;
+  }
+
+  .news2 .bilde2,
+  .news3 .bilde3,
+  .rapport2 .frihet,
+  .rapport3 .bilde3 {
+    height: 160px;
+  }
+
+  .news3 .date,
+  .news3 .newstitle {
+    margin-left: 0.02435%;
+  }
+
+  .newstabs .newsbutton {
+    position: relative;
+  }
+
+  .rapport2 .rapporttekst2 {
+    margin-left: 0.03896%;
+  }
+
+  .rapporter .rapport1 {
+    position: relative;
+    z-index: 81;
+    margin-left: 4.78516%;
+  }
+
+  .topmenu {
+    background-color: #cb333b;
+  }
+
+  .topmenu .logocontainer {
+    width: 161px;
+    height: 47px;
+    margin-top: 6px;
+    margin-right: 7px;
+  }
+
+  .topmenu .search {
+    position: static;
+    float: left;
+    top: auto;
+    left: auto;
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+
+  .toptext_longstaying .summary {
+    width: 100.171982489%;
+    margin-top: -9px;
+    margin-left: -0.38681%;
+  }
+
+  .toptext_longstaying .title {
+    width: 100.171982489%;
+    margin-left: -0.26466%;
+  }
+
+  .footer ._container {
+    margin-left: 0;
+  }
+
+  .footer ._element {
+    position: relative;
+    z-index: 1;
+    width: 160px;
+    height: 69px;
+    margin-top: 23px;
+    margin-right: 5%;
+  }
+
+  .hjelpe ._button {
+    width: 99.9186859651%;
+    margin-top: 20px;
+    margin-left: -0.04808%;
+  }
+
+  .menu_bottom ._select {
+    float: right;
+    width: 100%;
+    margin-top: -499px;
+    margin-left: 0;
+  }
+
+  .news1 ._element {
+    height: 160px;
+  }
+
+  .rapport1 ._element {
+    height: 160px;
+    margin-left: 0;
+  }
+
+  .topmenu ._button {
+    margin-left: 12px;
+  }
+
+  .aktuelt .news1-1 {
+    position: relative;
+    z-index: 35;
+    margin-left: 4.78516%;
+  }
+
+  .container .text-11 {
+    width: 99.1689750692%;
+    margin-left: 0.2597%;
+  }
+
+  .footer .container-14 {
+    position: relative;
+    z-index: 5;
+    width: 95%;
+    margin-top: 176px;
+  }
+
+  .footer .text-12 {
+    position: relative;
+    clear: both;
+    z-index: 0;
+    width: 95%;
+    margin-top: 19px;
+  }
+
+  .footer-1 {
+    position: relative;
+    z-index: 23;
+  }
+
+  .help .fullmakt-2 {
+    margin-top: 10px;
+  }
+
+  .countries .text-4,
+  .help .text-6 {
+    margin-top: 0;
+  }
+
+  .hjelpe .text-1 {
+    font-size: 2.5em;
+    line-height: 1.18;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 123;
+    margin-top: 13px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 124;
+    width: 150px;
+    margin-top: 6px;
+    margin-right: 2.47477%;
+  }
+
+  .newstabs .newsbutton-1 {
+    z-index: 27;
+    margin-left: 4.74219%;
+  }
+
+  .newstabs .newsbutton-2 {
+    z-index: 28;
+  }
+
+  .newstabs .newsbutton-3 {
+    z-index: 29;
+    margin-left: 1px;
+  }
+
+  .container ._button-16 {
+    width: 99.4459833795%;
+    margin-top: 23px;
+    margin-left: 0.2597%;
+  }
+}

@@ -1,0 +1,417 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.formnavigation {
+  float: left;
+  clear: both;
+  width: 99.9260146561%;
+  height: 68px;
+  margin-left: 0.6412099999%;
+  padding-top: 10px;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.logocontainer {
+  float: right;
+  width: 437px;
+  height: 64px;
+  margin: 8px 16px 0 0;
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  z-index: 12;
+  width: 105px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_menu_hvit(2).svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  background-position: 20% 50%;
+  font: 1em/1.38 Georgia;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 141px;
+  z-index: 9;
+  width: 44px;
+  height: 44px;
+  padding-left: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+  background: url('../images/icon_search_white.svg') rgb(203, 51, 59);
+  background-repeat: no-repeat;
+  background-size: 22px 22px;
+  background-position: center center;
+  font: 1em/1.38 Georgia;
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+
+.menu:hover,
+.search:hover {
+  background-color: rgb(235, 83, 90);
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.skjema {
+  width: 947px;
+  margin: 80px auto 0;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.title {
+  width: 100%;
+  margin: 0 auto;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.title p {
+  margin-bottom: 1em;
+}
+
+.titleh1 {
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  font: 700 2.125em/1.38 'PT Serif';
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.topmenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 11;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(203, 51, 59);
+}
+
+._button {
+  display: block;
+  border-radius: 22px;
+  background-color: rgb(203, 51, 59);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:hover {
+  background-color: rgb(235, 83, 90);
+}
+
+.formnavigation ._button {
+  width: 234px;
+  min-width: 234px;
+  height: 46px;
+  margin: 10px auto 0;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 2.38;
+}
+
+.formnavigation ._button:hover {
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.topmenu ._button {
+  float: left;
+  width: 44px;
+  height: 44px;
+  margin: 14px 0 0 204px;
+  border: 1px solid rgba(246, 246, 246, 0.56);
+  font: 400 0.875em/1.38 Georgia;
+}
+
+.image-1 {
+  float: left;
+  width: 188px;
+  margin: 13px 0 0 5.90318%;
+}
+
+.image-2 {
+  float: right;
+  width: 211px;
+}
+
+.title span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.125em;
+  font-weight: 600;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 960px) {
+  .search:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .container .formnavigation {
+    float: none;
+    clear: none;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    top: 8px;
+  }
+
+  .menu:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .skjema {
+    width: 100%;
+    margin-top: 60px;
+  }
+
+  .topmenu {
+    height: 60px;
+  }
+
+  .topmenu .logocontainer {
+    width: 369px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 6px;
+  }
+
+  .topmenu .search {
+    top: 8px;
+    left: 161px;
+    border-radius: 22px;
+  }
+
+  .formnavigation ._button {
+    margin-top: 0;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+
+  .topmenu ._button {
+    margin-top: 8px;
+    margin-left: 220px;
+    font-size: 1em;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 6;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 7;
+    width: 178px;
+    margin-top: 5px;
+  }
+}
+
+@media(max-width: 640px) {
+  .search:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  body {
+    font-size: 1em;
+  }
+
+  .container .formnavigation {
+    width: 81.5005387931%;
+    margin-top: 20px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    left: 14px;
+  }
+
+  .menu:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .topmenu .logocontainer {
+    width: 173px;
+    margin-top: 10px;
+  }
+
+  .topmenu .search {
+    left: 152px;
+    background-size: 30px 21px;
+  }
+
+  .topmenu ._button {
+    margin-left: 210px;
+  }
+
+  .logocontainer .image-1 {
+    display: none;
+    z-index: 6;
+    margin-top: 15px;
+    margin-left: 31.58418%;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 7;
+    width: 168px;
+    margin-top: 0;
+    margin-right: 2.21279%;
+  }
+}
+
+@media(max-width: 400px) {
+  .search:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .container .formnavigation {
+    width: 86.8933823529%;
+    height: 81px;
+  }
+
+  .logocontainer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .menu {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    border-width: 0;
+    border-style: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-position: 40% 50%;
+  }
+
+  .menu:hover {
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .skjema {
+    position: relative;
+    z-index: 5;
+    padding: 5px 20px 80px;
+  }
+
+  .skjema .container {
+    margin-top: 20px;
+  }
+
+  .topmenu .logocontainer {
+    width: 161px;
+    height: 47px;
+    margin-top: 6px;
+    margin-right: 7px;
+  }
+
+  .topmenu .search {
+    position: static;
+    float: left;
+    top: auto;
+    left: auto;
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+
+  .topmenu ._button {
+    margin-left: 12px;
+  }
+
+  .logocontainer .image-1 {
+    z-index: 6;
+    margin-top: 13px;
+    margin-left: 0;
+  }
+
+  .logocontainer .image-2 {
+    z-index: 7;
+    width: 150px;
+    margin-top: 6px;
+    margin-right: 2.47477%;
+  }
+}
